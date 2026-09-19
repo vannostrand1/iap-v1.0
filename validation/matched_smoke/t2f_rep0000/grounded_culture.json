@@ -1,0 +1,43 @@
+{
+  "batch_examples": 1552,
+  "batch_size_max": 32,
+  "changed_state_keys": [
+    "log_gain"
+  ],
+  "checkpoint_sha256": "ee12eb10889e565b6a996e53011cfe793ae68481056fe18cddc1b03ae5013fcb",
+  "checkpoints": {
+    "0": {
+      "action_accuracy": 0.16666666666666666,
+      "sequence_accuracy": 0.0
+    },
+    "64": {
+      "action_accuracy": 0.4166666666666667,
+      "sequence_accuracy": 0.0
+    }
+  },
+  "environmental_rewards": 0,
+  "exposure_draws": 64,
+  "final_state_sha256": "466de7695ee173be6e04e61d37ee80869fc7dade2531ffd9b6d138700de76e5f",
+  "fixed_buffers_unchanged": true,
+  "initial_state_sha256": "a7ef8e5b0801e7f1b4f73c0fc41bc7af46f873999882a6c29a730709129d72bf",
+  "learning_rate": 0.03,
+  "losses": [
+    {
+      "mse": 0.8375948667526245,
+      "update": 64
+    }
+  ],
+  "model_spec": {
+    "actions": 4,
+    "fly_seed": 7102,
+    "inputs": 8,
+    "kind": "fly",
+    "seed": 1200010
+  },
+  "optimizer": "Adam",
+  "packet_access_during_evaluation": false,
+  "pairing": "matched_initialization",
+  "reload_logits_equal": true,
+  "unique_states_exposed": 36,
+  "updates": 64
+}

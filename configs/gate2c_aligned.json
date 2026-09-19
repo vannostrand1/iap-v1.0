@@ -1,0 +1,30 @@
+{
+  "name": "gate2c_aligned",
+  "purpose": "v1 aligned-interface replication; separate from archived Gate 2C",
+  "family": "aligned",
+  "directions": [
+    "f2t",
+    "t2f",
+    "f2m",
+    "m2f"
+  ],
+  "replicates": 3,
+  "start_rep": 0,
+  "seed_base": 3000000,
+  "direction_stride": 100000,
+  "queries": 0,
+  "outdim": 8,
+  "updates": {
+    "f2t": 256,
+    "t2f": 768,
+    "f2m": 256,
+    "m2f": 512
+  },
+  "conditions": [
+    "grounded_culture",
+    "wrong_culture"
+  ],
+  "pairing": "matched_initialization",
+  "active_grounding": true,
+  "threads": 1
+}

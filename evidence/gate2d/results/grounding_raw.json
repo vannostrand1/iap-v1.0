@@ -1,0 +1,2562 @@
+[
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 0,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 6048
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 1,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.0,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 2,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 3,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 6048
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 4,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5184
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 5,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 6,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5376
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 7,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 8,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.0,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 9,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 6048
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 10,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 11,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 12,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 13,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 6048
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 14,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 15,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5376
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 16,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.0,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 17,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 18,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 19,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.25,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 20,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.0,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 21,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 22,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 6048
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 23,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.0,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 24,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 5184
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 25,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.0,
+    "survivors": 5184
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 26,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 5184
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 27,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.0,
+    "survivors": 5376
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 28,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 29,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 30,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 31,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5376
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 32,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 33,
+    "policy_acc": 0.5,
+    "sequence_acc": 0.0,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 34,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 35,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.0,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 36,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 37,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 6048
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 38,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5376
+  },
+  {
+    "teacher": "fly",
+    "budget": 4,
+    "rep": 39,
+    "policy_acc": 0.4583333333333333,
+    "sequence_acc": 0.125,
+    "survivors": 5712
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 0,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.5,
+    "survivors": 390
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 1,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.25,
+    "survivors": 402
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 2,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.375,
+    "survivors": 356
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 3,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.375,
+    "survivors": 360
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 4,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 330
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 5,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.375,
+    "survivors": 356
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 6,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 336
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 7,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 351
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 8,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 9,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.375,
+    "survivors": 360
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 10,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 383
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 11,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 363
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 12,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 383
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 13,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 342
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 14,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 383
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 15,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 340
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 16,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 321
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 17,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 18,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 357
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 19,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 351
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 20,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.375,
+    "survivors": 360
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 21,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 357
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 22,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 363
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 23,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 24,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 358
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 25,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.25,
+    "survivors": 310
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 26,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.375,
+    "survivors": 336
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 27,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.0,
+    "survivors": 390
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 28,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.375,
+    "survivors": 356
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 29,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.25,
+    "survivors": 363
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 30,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 260
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 31,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 357
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 32,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 348
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 33,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 340
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 34,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.375,
+    "survivors": 360
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 35,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 340
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 36,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 358
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 37,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 340
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 38,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.375,
+    "survivors": 360
+  },
+  {
+    "teacher": "fly",
+    "budget": 8,
+    "rep": 39,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 340
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 0,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 22
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 1,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 22
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 2,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.875,
+    "survivors": 22
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 3,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 19
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 4,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 5,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 6,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 24
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 7,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 25
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 8,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 9,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 22
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 10,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 20
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 11,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 19
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 12,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 13,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 14,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 19
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 15,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 20
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 16,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 24
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 17,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 23
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 18,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 22
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 19,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 20,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 23
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 21,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 19
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 22,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 22
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 23,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 19
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 24,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 22
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 25,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 23
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 26,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 27,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 23
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 28,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 29,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 30,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 24
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 31,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 25
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 32,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 21
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 33,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 24
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 34,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 23
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 35,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 24
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 36,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 29
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 37,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 19
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 38,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 23
+  },
+  {
+    "teacher": "fly",
+    "budget": 12,
+    "rep": 39,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 27
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 0,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 1,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 2,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 3,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 4,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 5,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 6,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 7,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 8,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 9,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 5
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 10,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 11,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 12,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 13,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 14,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 15,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 16,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 17,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 18,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 19,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 20,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 21,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 22,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 23,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 24,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 25,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 26,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 27,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 28,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 29,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 30,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 31,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 32,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 33,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 34,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 35,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 36,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 37,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 38,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "fly",
+    "budget": 16,
+    "rep": 39,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 4
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 0,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.25,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 1,
+    "policy_acc": 0.5,
+    "sequence_acc": 0.0,
+    "survivors": 5808
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 2,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5532
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 3,
+    "policy_acc": 0.5,
+    "sequence_acc": 0.0,
+    "survivors": 5808
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 4,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 5,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 6,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.375,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 7,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5276
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 8,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5532
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 9,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.25,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 10,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.25,
+    "survivors": 5808
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 11,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5276
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 12,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 13,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.375,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 14,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 15,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 16,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.375,
+    "survivors": 5768
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 17,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.25,
+    "survivors": 5276
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 18,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.375,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 19,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5276
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 20,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.25,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 21,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 22,
+    "policy_acc": 0.5416666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 23,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 24,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5276
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 25,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 26,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.25,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 27,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 28,
+    "policy_acc": 0.5,
+    "sequence_acc": 0.0,
+    "survivors": 5808
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 29,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 30,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 6528
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 31,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.375,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 32,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.25,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 33,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 5768
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 34,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.25,
+    "survivors": 5752
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 35,
+    "policy_acc": 0.5833333333333334,
+    "sequence_acc": 0.125,
+    "survivors": 6528
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 36,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.25,
+    "survivors": 5276
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 37,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 5768
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 38,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 5276
+  },
+  {
+    "teacher": "transformer",
+    "budget": 4,
+    "rep": 39,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 5664
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 0,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 332
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 1,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 356
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 2,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 352
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 3,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 388
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 4,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 361
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 5,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 339
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 6,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 388
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 7,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 8,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 9,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 358
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 10,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 312
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 11,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 350
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 12,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 370
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 13,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 14,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.75,
+    "survivors": 352
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 15,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 352
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 16,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 339
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 17,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 371
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 18,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 354
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 19,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 20,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 312
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 21,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 338
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 22,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 350
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 23,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 339
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 24,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 356
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 25,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.75,
+    "survivors": 352
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 26,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 328
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 27,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 336
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 28,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 350
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 29,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.375,
+    "survivors": 267
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 30,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 371
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 31,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.625,
+    "survivors": 332
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 32,
+    "policy_acc": 0.6666666666666666,
+    "sequence_acc": 0.125,
+    "survivors": 356
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 33,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.25,
+    "survivors": 350
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 34,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.375,
+    "survivors": 350
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 35,
+    "policy_acc": 0.7083333333333334,
+    "sequence_acc": 0.25,
+    "survivors": 354
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 36,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 361
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 37,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 516
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 38,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 361
+  },
+  {
+    "teacher": "transformer",
+    "budget": 8,
+    "rep": 39,
+    "policy_acc": 0.625,
+    "sequence_acc": 0.125,
+    "survivors": 344
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 0,
+    "policy_acc": 0.75,
+    "sequence_acc": 0.375,
+    "survivors": 30
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 1,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 24
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 2,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 3,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 26
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 4,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 5,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 19
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 6,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 26
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 7,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.875,
+    "survivors": 26
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 8,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 9,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 10,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 11,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 12,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 16
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 13,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.875,
+    "survivors": 26
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 14,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 23
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 15,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.75,
+    "survivors": 17
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 16,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 17,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 14
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 18,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 19,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 20,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 24
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 21,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.5,
+    "survivors": 20
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 22,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 18
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 23,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 21
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 24,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 16
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 25,
+    "policy_acc": 0.7916666666666666,
+    "sequence_acc": 0.375,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 26,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 23
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 27,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 28,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 21
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 29,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 30,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 19
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 31,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 18
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 32,
+    "policy_acc": 0.875,
+    "sequence_acc": 0.625,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 33,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.875,
+    "survivors": 26
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 34,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 23
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 35,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 21
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 36,
+    "policy_acc": 0.9583333333333334,
+    "sequence_acc": 0.875,
+    "survivors": 21
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 37,
+    "policy_acc": 0.8333333333333334,
+    "sequence_acc": 0.5,
+    "survivors": 22
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 38,
+    "policy_acc": 0.9166666666666666,
+    "sequence_acc": 0.75,
+    "survivors": 23
+  },
+  {
+    "teacher": "transformer",
+    "budget": 12,
+    "rep": 39,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 14
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 0,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 1,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 2,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 3,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 4,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 5,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 6,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 7,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 8,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 9,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 10,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 11,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 12,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 13,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 14,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 15,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 16,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 17,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 18,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 3
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 19,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 20,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 21,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 22,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 23,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 24,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 25,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 26,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 27,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 28,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 29,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 30,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 31,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 32,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 33,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 3
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 34,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 35,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 36,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 37,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 38,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  },
+  {
+    "teacher": "transformer",
+    "budget": 16,
+    "rep": 39,
+    "policy_acc": 1.0,
+    "sequence_acc": 1.0,
+    "survivors": 2
+  }
+]

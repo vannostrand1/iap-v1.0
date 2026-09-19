@@ -1,0 +1,5402 @@
+[
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950006,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950013,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950018,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950006,
+    "return_raw": 58.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950007,
+    "return_raw": 55.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950013,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950017,
+    "return_raw": -46.0,
+    "killed": true,
+    "decisions": 18
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950018,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950006,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950007,
+    "return_raw": 29.0,
+    "killed": true,
+    "decisions": 8
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950013,
+    "return_raw": 30.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950018,
+    "return_raw": 68.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950006,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950007,
+    "return_raw": 29.0,
+    "killed": true,
+    "decisions": 8
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950013,
+    "return_raw": 55.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950018,
+    "return_raw": 55.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950006,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950007,
+    "return_raw": 29.0,
+    "killed": true,
+    "decisions": 8
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950013,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950018,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950006,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950013,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950018,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950006,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950007,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950013,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950018,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950006,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950007,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950013,
+    "return_raw": 30.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950018,
+    "return_raw": 68.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950006,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950007,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950013,
+    "return_raw": 30.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950018,
+    "return_raw": 68.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950006,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950007,
+    "return_raw": 29.0,
+    "killed": true,
+    "decisions": 8
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950013,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950018,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950006,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950013,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950018,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950006,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950013,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950015,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950018,
+    "return_raw": -390.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950019,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950006,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950013,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950015,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950018,
+    "return_raw": -390.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950019,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950006,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950013,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950015,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950018,
+    "return_raw": -315.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950019,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950006,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950007,
+    "return_raw": -350.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950013,
+    "return_raw": 30.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950017,
+    "return_raw": -105.0,
+    "killed": true,
+    "decisions": 21
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950018,
+    "return_raw": 33.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950006,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950013,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950015,
+    "return_raw": -310.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950017,
+    "return_raw": -405.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950018,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episode_seed": 950019,
+    "return_raw": -305.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950006,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950007,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950013,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950018,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950001,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950002,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950003,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950004,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950005,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950006,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950007,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950008,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950009,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950010,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950011,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950012,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950013,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950014,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950016,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950018,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950006,
+    "return_raw": 58.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950007,
+    "return_raw": 36.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950013,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950018,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950001,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950002,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950003,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950004,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950005,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950006,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950007,
+    "return_raw": 17.0,
+    "killed": true,
+    "decisions": 9
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950008,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950009,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950010,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950011,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950012,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950013,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950014,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950016,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950018,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950006,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950013,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950015,
+    "return_raw": -310.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950017,
+    "return_raw": -405.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950018,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episode_seed": 950019,
+    "return_raw": -305.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950006,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950007,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950013,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950018,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950006,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950007,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950013,
+    "return_raw": 30.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950018,
+    "return_raw": 68.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950006,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950007,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950013,
+    "return_raw": 30.0,
+    "killed": true,
+    "decisions": 7
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950018,
+    "return_raw": 68.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950001,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950006,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950007,
+    "return_raw": 71.0,
+    "killed": true,
+    "decisions": 4
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950013,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950015,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950017,
+    "return_raw": 52.0,
+    "killed": true,
+    "decisions": 6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950018,
+    "return_raw": 63.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episode_seed": 950019,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950001,
+    "return_raw": -19.0,
+    "killed": true,
+    "decisions": 12
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950002,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950003,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950004,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950005,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950006,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950008,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950009,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950010,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950011,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950012,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950013,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950014,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950015,
+    "return_raw": -310.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950016,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950017,
+    "return_raw": -405.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950018,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episode_seed": 950019,
+    "return_raw": -305.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950006,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950013,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950015,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950018,
+    "return_raw": -385.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episode_seed": 950019,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950001,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950006,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950013,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950015,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950018,
+    "return_raw": -385.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episode_seed": 950019,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950000,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950001,
+    "return_raw": -395.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950002,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950003,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950004,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950005,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950006,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950007,
+    "return_raw": -410.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950008,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950009,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950010,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950011,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950012,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950013,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950014,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950015,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950016,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950017,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950018,
+    "return_raw": -300.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episode_seed": 950019,
+    "return_raw": -400.0,
+    "killed": false,
+    "decisions": 38
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950000,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950001,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950002,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950003,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950004,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950005,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950006,
+    "return_raw": 60.0,
+    "killed": true,
+    "decisions": 5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950007,
+    "return_raw": 21.0,
+    "killed": true,
+    "decisions": 9
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950008,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950009,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950010,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950011,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950012,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950013,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950014,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950015,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950016,
+    "return_raw": 87.0,
+    "killed": true,
+    "decisions": 2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950017,
+    "return_raw": -116.0,
+    "killed": true,
+    "decisions": 23
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950018,
+    "return_raw": 79.0,
+    "killed": true,
+    "decisions": 3
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episode_seed": 950019,
+    "return_raw": 95.0,
+    "killed": true,
+    "decisions": 1
+  }
+]

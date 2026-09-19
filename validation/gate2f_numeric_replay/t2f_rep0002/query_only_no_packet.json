@@ -1,0 +1,75 @@
+{
+  "batch_examples": 32272,
+  "batch_size_max": 32,
+  "changed_state_keys": [
+    "log_gain"
+  ],
+  "checkpoint_sha256": "d9831429e8bd7584814eba7a015d8c9cadb27214fbbda00f077c1599025c2204",
+  "checkpoints": {
+    "0": {
+      "action_accuracy": 0.20833333333333334,
+      "sequence_accuracy": 0.0
+    },
+    "64": {
+      "action_accuracy": 0.4583333333333333,
+      "sequence_accuracy": 0.0
+    },
+    "128": {
+      "action_accuracy": 0.625,
+      "sequence_accuracy": 0.125
+    },
+    "256": {
+      "action_accuracy": 0.7083333333333334,
+      "sequence_accuracy": 0.0
+    },
+    "512": {
+      "action_accuracy": 0.625,
+      "sequence_accuracy": 0.0
+    },
+    "1024": {
+      "action_accuracy": 0.6458333333333334,
+      "sequence_accuracy": 0.0
+    }
+  },
+  "environmental_rewards": 0,
+  "exposure_draws": 1024,
+  "final_state_sha256": "4daf8d55424ed1c217121b10bf9bfcece9cb6bcd82796cf1ebbaa97868fff260",
+  "fixed_buffers_unchanged": true,
+  "initial_state_sha256": "a7ef8e5b0801e7f1b4f73c0fc41bc7af46f873999882a6c29a730709129d72bf",
+  "learning_rate": 0.03,
+  "losses": [
+    {
+      "mse": 0.5183002352714539,
+      "update": 64
+    },
+    {
+      "mse": 0.3605726361274719,
+      "update": 128
+    },
+    {
+      "mse": 0.08596581220626831,
+      "update": 256
+    },
+    {
+      "mse": 0.0006046024500392377,
+      "update": 512
+    },
+    {
+      "mse": 4.63973748310309e-08,
+      "update": 1024
+    }
+  ],
+  "model_spec": {
+    "actions": 4,
+    "fly_seed": 7102,
+    "inputs": 8,
+    "kind": "fly",
+    "seed": 1201012
+  },
+  "optimizer": "Adam",
+  "packet_access_during_evaluation": false,
+  "pairing": "historical_offsets",
+  "reload_logits_equal": true,
+  "unique_states_exposed": 20,
+  "updates": 1024
+}

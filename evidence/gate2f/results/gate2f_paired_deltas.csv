@@ -1,0 +1,9 @@
+direction,comparison,metric,n,mean_delta,ci95_low,ci95_high
+f2t,grounded_culture-minus-query_only_no_packet,final_action,6,0.42708333333333326,0.3819444444444444,0.47222222222222215
+f2t,grounded_culture-minus-query_only_no_packet,final_sequence,6,0.9583333333333334,0.9166666666666666,1.0
+f2t,grounded_culture-minus-ungrounded_identity,final_action,6,0.7534722222222223,0.7361111111111112,0.7777777777777778
+f2t,grounded_culture-minus-ungrounded_identity,final_sequence,6,1.0,1.0,1.0
+t2f,grounded_culture-minus-query_only_no_packet,final_action,6,0.3680555555555556,0.33333333333333326,0.3993055555555556
+t2f,grounded_culture-minus-query_only_no_packet,final_sequence,6,0.9583333333333334,0.9166666666666666,1.0
+t2f,grounded_culture-minus-ungrounded_identity,final_action,6,0.7847222222222223,0.7534722222222223,0.8159722222222223
+t2f,grounded_culture-minus-ungrounded_identity,final_sequence,6,0.9791666666666666,0.9375,1.0

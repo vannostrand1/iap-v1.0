@@ -1,0 +1,68 @@
+[
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "changed": {
+      "log_gain": 8139,
+      "edge_flat": 0,
+      "base": 0,
+      "drive": 0,
+      "decode": 0
+    }
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "changed": {
+      "log_gain": 8139,
+      "edge_flat": 0,
+      "base": 0,
+      "drive": 0,
+      "decode": 0
+    }
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "changed": {
+      "log_gain": 8139,
+      "edge_flat": 0,
+      "base": 0,
+      "drive": 0,
+      "decode": 0
+    }
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "changed": {
+      "log_gain": 8580,
+      "edge_flat": 0,
+      "base": 0,
+      "drive": 0,
+      "decode": 0
+    }
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "changed": {
+      "log_gain": 8580,
+      "edge_flat": 0,
+      "base": 0,
+      "drive": 0,
+      "decode": 0
+    }
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "changed": {
+      "log_gain": 8580,
+      "edge_flat": 0,
+      "base": 0,
+      "drive": 0,
+      "decode": 0
+    }
+  }
+]

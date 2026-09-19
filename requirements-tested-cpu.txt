@@ -1,0 +1,5 @@
+# Numerical versions used for the release replay on Linux/Python 3.13.
+# Install CPU torch from https://download.pytorch.org/whl/cpu when desired.
+numpy==2.3.5
+scipy==1.17.0
+torch==2.10.0

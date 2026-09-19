@@ -1,0 +1,149 @@
+{
+  "experiment": "IAP Gate 2F \u2014 Cross-Ontology Cultural Transmission",
+  "packet_bytes": 241,
+  "grounding_confirmation_worlds_per_teacher": 20,
+  "calibration_queries": 36,
+  "transfer_replicates_per_direction": 6,
+  "files": [
+    {
+      "path": "PROTOCOL.md",
+      "bytes": 4475,
+      "sha256": "cd6f164a3bec5c858e5e9cf2d109e3647df6ee65bcdc3536c7578be82058bdc4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6700,
+      "sha256": "514b50dbfb223ed461182cce64ceb635686d6b2afdcde685ff0a1ad5f21c64cf"
+    },
+    {
+      "path": "data/graph_223.npz",
+      "bytes": 327466,
+      "sha256": "49e0743b352595b6393e5cabb241c36414bf5aff3b5d0cc93a14b374656361a3"
+    },
+    {
+      "path": "data/graph_239.npz",
+      "bytes": 324338,
+      "sha256": "9eff12c74c6b9618d3252bd9eee6eb811078e7df607b4383512ebd290385a4ce"
+    },
+    {
+      "path": "packets/fly_culture_capsule_241b.iapx",
+      "bytes": 241,
+      "sha256": "2de2cd399b75dfbd56c64f6dc66dda5a14a3f90860bbff9e83db14fb54734163"
+    },
+    {
+      "path": "packets/fly_teacher_97b.iap",
+      "bytes": 97,
+      "sha256": "4bb3a4f5c1cd3b8cf5166afbfbace1ddd7b7b34156701c9f91beb3146f5c2039"
+    },
+    {
+      "path": "packets/source_relational_atlas_144b.bin",
+      "bytes": 144,
+      "sha256": "e9dc78b20ac3eba791c384ee42e023a6de4f9f277d240453b45e372cebcd5a57"
+    },
+    {
+      "path": "packets/transformer_culture_capsule_241b.iapx",
+      "bytes": 241,
+      "sha256": "4e5d4bfdf7103faad91bc373a562328bffee35302a1ec4bad74a137da2a11623"
+    },
+    {
+      "path": "packets/transformer_teacher_97b.iap",
+      "bytes": 97,
+      "sha256": "f062bc44b0a5ba7613f32f8b969dc32ce2af459817b7680407c4641a87d6ed1e"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 25,
+      "sha256": "bc136476696eaae51388d848cfc820a452725e54d458b2678a8cee64a3441dfa"
+    },
+    {
+      "path": "results/f2t512_3.csv",
+      "bytes": 386,
+      "sha256": "ebd3ef4fa6f8fd8772576b0fe2dfad3ac4770fce14d135abd42685a9ae1cda3a"
+    },
+    {
+      "path": "results/f2t512_4.csv",
+      "bytes": 377,
+      "sha256": "97b5a1649961134210973e5bea145f18e5664cc8968019b9aefc2ef3d796b402"
+    },
+    {
+      "path": "results/f2t512_5.csv",
+      "bytes": 410,
+      "sha256": "8ee7e9047d6aea4ea66a1854a2489c275f51c82450a80356df387b41edb062c7"
+    },
+    {
+      "path": "results/f2t512a.csv",
+      "bytes": 954,
+      "sha256": "07f567d0970ec1fcbd4db4a6d8134ca90d3c0ce9b44524ed1e13b96605ad5af3"
+    },
+    {
+      "path": "results/gate2f_grounding_aggregate.csv",
+      "bytes": 573,
+      "sha256": "df02e55b0333d1bbf3fbe08c8429cb04d45cf50241783f2879ff697050cdbe37"
+    },
+    {
+      "path": "results/gate2f_grounding_raw.csv",
+      "bytes": 3072,
+      "sha256": "209ceabb60d9d3f4b473c4b567480a51558611461cd545f3b9fc772e2de2c0e8"
+    },
+    {
+      "path": "results/gate2f_paired_deltas.csv",
+      "bytes": 925,
+      "sha256": "af89fa65b63795fca0e5b620f1a074dfb0b48cb74ad39efbd8a5371177b35c65"
+    },
+    {
+      "path": "results/gate2f_transfer_aggregate.csv",
+      "bytes": 1093,
+      "sha256": "606025f105c2ba6c38147f11a3b86f525877dc0d9f67ad011097ddd0fbe4cb0d"
+    },
+    {
+      "path": "results/gate2f_transfer_raw.csv",
+      "bytes": 3903,
+      "sha256": "058791deb82bdf142de4dcffaf3c11e30868943704dc4d25b9f1c0c2a2ee82c9"
+    },
+    {
+      "path": "results/ground36_fly.csv",
+      "bytes": 652,
+      "sha256": "2257a46d9cd956bd8aba90214cc9638c45450100e52e87c7038b8c1f06e48991"
+    },
+    {
+      "path": "results/ground36_transformer.csv",
+      "bytes": 812,
+      "sha256": "df0d0ad17c72abbae95f3b0cf18da2b4e5f4a6371feade0a594816731c97284f"
+    },
+    {
+      "path": "results/ground_curve_small.csv",
+      "bytes": 1598,
+      "sha256": "abf69d50af1600f9ea1ac027bc7597b59abae71eb5061c259ff564b8437a330e"
+    },
+    {
+      "path": "results/t2f1024a.csv",
+      "bytes": 1009,
+      "sha256": "b78be36aa521e308624bcb2d9ee06d7285d9550ed49f9df10df3df2561c546c8"
+    },
+    {
+      "path": "results/t2f1024b.csv",
+      "bytes": 939,
+      "sha256": "c136e4dfa72f85c5c3af58bab49ad527000dcdd5c4113c567f4924e827e99b0d"
+    },
+    {
+      "path": "source/gate2f_experiment.py",
+      "bytes": 17245,
+      "sha256": "3302060be109e086179a0c280e8e5ba56714b70707bd1bc569845e2b9c673344"
+    },
+    {
+      "path": "source/internal_model.py",
+      "bytes": 2765,
+      "sha256": "6af42fba2ecf5a16c3202b494cea93dcb20749855317dc00b19b2febefb2adef"
+    },
+    {
+      "path": "teachers/fly_teacher_state.pt",
+      "bytes": 140295,
+      "sha256": "55cc72669db10b86b182e6bc18cb82453aa22380a5b33ef4b040668b01e25f92"
+    },
+    {
+      "path": "teachers/transformer_teacher_state.pt",
+      "bytes": 27086,
+      "sha256": "e941dc12513384141aa6c1ba5af3e082145ada76e93431f824d763c6b5de6e01"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "gate2e_stress5",
+  "purpose": "v1 five-channel stress experiment; not part of release smoke",
+  "family": "relational",
+  "directions": [
+    "f2t",
+    "t2f"
+  ],
+  "replicates": 12,
+  "start_rep": 0,
+  "seed_base": 200000,
+  "direction_stride": 50000,
+  "queries": 18,
+  "outdim": 5,
+  "updates": {
+    "f2t": 512,
+    "t2f": 512
+  },
+  "conditions": [
+    "grounded_culture",
+    "query_only_no_packet",
+    "ungrounded_identity"
+  ],
+  "pairing": "matched_initialization",
+  "active_grounding": true,
+  "threads": 1
+}

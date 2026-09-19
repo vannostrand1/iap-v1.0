@@ -1,0 +1,36 @@
+{
+  "stage": "confirmation",
+  "steps": 8000,
+  "eval_episodes": 20,
+  "checkpoints": [
+    0,
+    1000,
+    2000,
+    4000,
+    8000
+  ],
+  "students": [
+    7102,
+    7103
+  ],
+  "conditions": [
+    "scratch",
+    "culture",
+    "wrong_packet"
+  ],
+  "packet_payload_bytes": 747,
+  "engine": {
+    "engine_started": true,
+    "version": "1.2.4",
+    "shape": [
+      120,
+      160,
+      3
+    ],
+    "one_action_reward": 95.0,
+    "one_action_terminal": true,
+    "seconds": 0.5437065000005532
+  },
+  "device": "cpu",
+  "packet_evaluation_use": false
+}

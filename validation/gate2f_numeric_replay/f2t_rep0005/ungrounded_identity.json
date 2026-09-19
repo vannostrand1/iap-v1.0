@@ -1,0 +1,83 @@
+{
+  "batch_examples": 15888,
+  "batch_size_max": 32,
+  "changed_state_keys": [
+    "feature",
+    "cls",
+    "val.weight",
+    "enc.layers.0.self_attn.in_proj_weight",
+    "enc.layers.0.self_attn.in_proj_bias",
+    "enc.layers.0.self_attn.out_proj.weight",
+    "enc.layers.0.self_attn.out_proj.bias",
+    "enc.layers.0.linear1.weight",
+    "enc.layers.0.linear1.bias",
+    "enc.layers.0.linear2.weight",
+    "enc.layers.0.linear2.bias",
+    "enc.layers.0.norm1.weight",
+    "enc.layers.0.norm1.bias",
+    "enc.layers.0.norm2.weight",
+    "enc.layers.0.norm2.bias",
+    "out.weight",
+    "out.bias"
+  ],
+  "checkpoint_sha256": "8b2facc0d8f8c0ebbaecb80da60c49a8b5f5f29c8ca09df3d076277293d74af7",
+  "checkpoints": {
+    "0": {
+      "action_accuracy": 0.25,
+      "sequence_accuracy": 0.0
+    },
+    "64": {
+      "action_accuracy": 0.3333333333333333,
+      "sequence_accuracy": 0.0
+    },
+    "128": {
+      "action_accuracy": 0.2916666666666667,
+      "sequence_accuracy": 0.0
+    },
+    "256": {
+      "action_accuracy": 0.25,
+      "sequence_accuracy": 0.0
+    },
+    "512": {
+      "action_accuracy": 0.25,
+      "sequence_accuracy": 0.0
+    }
+  },
+  "environmental_rewards": 0,
+  "exposure_draws": 512,
+  "final_state_sha256": "ab35854cc47cdd03f6a341933d1633ca550b7331e14d0d026a1f4a433ca5ffbb",
+  "fixed_buffers_unchanged": true,
+  "initial_state_sha256": "b239eb4d8669cf6d602b0dc6edd5622d78584bc2064a10ca0a181cb99cd5560f",
+  "learning_rate": 0.01,
+  "losses": [
+    {
+      "mse": 0.256786584854126,
+      "update": 64
+    },
+    {
+      "mse": 0.13600309193134308,
+      "update": 128
+    },
+    {
+      "mse": 0.09053555130958557,
+      "update": 256
+    },
+    {
+      "mse": 0.03507540002465248,
+      "update": 512
+    }
+  ],
+  "model_spec": {
+    "actions": 4,
+    "fly_seed": 7103,
+    "inputs": 8,
+    "kind": "transformer",
+    "seed": 1302015
+  },
+  "optimizer": "Adam",
+  "packet_access_during_evaluation": false,
+  "pairing": "historical_offsets",
+  "reload_logits_equal": true,
+  "unique_states_exposed": 66,
+  "updates": 512
+}

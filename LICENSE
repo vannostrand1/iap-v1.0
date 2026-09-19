@@ -1,0 +1,13 @@
+IAP v1.0 — licensing decision pending
+
+No repository-wide open-source license has been selected for this research
+release. This file does not grant a new license to any component. The original
+rights and licenses of contributed code, graph data, checkpoints, and upstream
+materials remain with their respective rights holders.
+
+Before a public software release, the project maintainer must select terms for
+the original IAP code and confirm compatibility with all redistributed assets.
+Do not infer that the retained upstream Eon or Dendritron license applies to
+the entire IAP repository, or that a future IAP license relicenses their data.
+
+See THIRD_PARTY_NOTICES.md, upstream/, and docs/DATA_PROVENANCE.md.

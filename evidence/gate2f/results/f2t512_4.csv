@@ -1,0 +1,4 @@
+direction,rep,condition,ground_action,ground_sequence,ground_role,queries,final_action,final_sequence,cp128_a,cp128_s,cp256_a,cp256_s
+f2t,4,grounded_culture,1.0,1.0,1.0,36,1.0,1.0,0.7708333333333334,0.25,0.9375,0.75
+f2t,4,query_only_no_packet,,,,36,0.5,0.0,0.5,0.0,0.5,0.0
+f2t,4,ungrounded_identity,,,,0,0.2708333333333333,0.0,0.2916666666666667,0.0,0.2708333333333333,0.0

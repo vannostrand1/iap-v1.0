@@ -1,0 +1,242 @@
+[
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episodes": 20,
+    "kill_fraction": 0.1,
+    "mean_return": -345.25
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 78.9
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 81.2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 81.8
+  },
+  {
+    "student_seed": 7102,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 84.75
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episodes": 20,
+    "kill_fraction": 0.1,
+    "mean_return": -345.25
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 80.6
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 79.05
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 79.2
+  },
+  {
+    "student_seed": 7102,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 82.75
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episodes": 20,
+    "kill_fraction": 0.1,
+    "mean_return": -345.25
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episodes": 20,
+    "kill_fraction": 0.0,
+    "mean_return": -390.0
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episodes": 20,
+    "kill_fraction": 0.0,
+    "mean_return": -385.0
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episodes": 20,
+    "kill_fraction": 0.0,
+    "mean_return": -381.25
+  },
+  {
+    "student_seed": 7102,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episodes": 20,
+    "kill_fraction": 0.95,
+    "mean_return": 53.45
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 0,
+    "episodes": 20,
+    "kill_fraction": 0.65,
+    "mean_return": -76.95
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 1000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 86.55
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 2000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 83.5
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 4000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 78.35
+  },
+  {
+    "student_seed": 7103,
+    "condition": "scratch",
+    "checkpoint": 8000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 80.55
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 0,
+    "episodes": 20,
+    "kill_fraction": 0.65,
+    "mean_return": -76.95
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 1000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 80.6
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 2000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 79.2
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 4000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 79.35
+  },
+  {
+    "student_seed": 7103,
+    "condition": "culture",
+    "checkpoint": 8000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 84.7
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 0,
+    "episodes": 20,
+    "kill_fraction": 0.65,
+    "mean_return": -76.95
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 1000,
+    "episodes": 20,
+    "kill_fraction": 0.0,
+    "mean_return": -384.75
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 2000,
+    "episodes": 20,
+    "kill_fraction": 0.0,
+    "mean_return": -384.75
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 4000,
+    "episodes": 20,
+    "kill_fraction": 0.0,
+    "mean_return": -380.25
+  },
+  {
+    "student_seed": 7103,
+    "condition": "wrong_packet",
+    "checkpoint": 8000,
+    "episodes": 20,
+    "kill_fraction": 1.0,
+    "mean_return": 72.6
+  }
+]

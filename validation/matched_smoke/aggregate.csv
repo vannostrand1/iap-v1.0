@@ -1,0 +1,7 @@
+direction,condition,n,action_accuracy,sequence_accuracy,perfect_recipients
+f2t,grounded_culture,1,0.5,0.0,0
+f2t,query_only_no_packet,1,0.4375,0.0,0
+f2t,ungrounded_identity,1,0.2916666666666667,0.0,0
+t2f,grounded_culture,1,0.4166666666666667,0.0,0
+t2f,query_only_no_packet,1,0.2916666666666667,0.0,0
+t2f,ungrounded_identity,1,0.1875,0.0,0

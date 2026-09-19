@@ -1,0 +1,49 @@
+{
+  "editable_install": {
+    "status": "passed",
+    "method": "pip install --no-deps --no-build-isolation -e ."
+  },
+  "wheel_build": {
+    "status": "passed",
+    "method": "pip wheel . --no-deps --no-build-isolation -w dist"
+  },
+  "sdist_build": {
+    "status": "passed",
+    "method": "setuptools.build_meta.build_sdist"
+  },
+  "isolated_wheel_check": {
+    "status": "passed",
+    "checks": [
+      "import from temporary --target installation outside repository",
+      "13 packaged asset hashes",
+      "241-byte capsule export and envelope inspection",
+      "six condition-run engineering smoke via installed wheel",
+      "packet-free native recipient checkpoint evaluation"
+    ],
+    "dependency_isolation": "Package installed into a separate target; numerical dependencies shared with the validated runtime."
+  },
+  "ruff": {
+    "status": "not_run",
+    "reason": "Not installed; installation attempt failed due to unavailable network DNS"
+  },
+  "windows": {
+    "status": "not_run",
+    "reason": "No Windows runtime in this build"
+  },
+  "github_actions": {
+    "status": "not_run",
+    "reason": "No remote repository created"
+  },
+  "distributions": [
+    {
+      "name": "inter_agent_protocol-1.0.0-py3-none-any.whl",
+      "bytes": 1085446,
+      "sha256": "793b51da6006827a1fbdac43a4387e07d5b923372d54189b91f5932b28390f9b"
+    },
+    {
+      "name": "inter_agent_protocol-1.0.0.tar.gz",
+      "bytes": 1107645,
+      "sha256": "86f365c0f9f706c5cca0350eb3248e8dfd79073a949a0adcac20436cc75fdad3"
+    }
+  ]
+}

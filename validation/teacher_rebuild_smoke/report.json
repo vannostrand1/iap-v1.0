@@ -1,0 +1,25 @@
+{
+  "distillation": {
+    "capsule_bytes": 241,
+    "distillation_updates": 512,
+    "framed_bytes": 442,
+    "packet_action_accuracy": 1.0,
+    "packet_teacher_agreement": 1.0,
+    "policy_bytes": 97,
+    "source_states": 24,
+    "teacher_action_accuracy": 1.0
+  },
+  "model_spec": {
+    "actions": 2,
+    "fly_seed": 7101,
+    "inputs": 6,
+    "kind": "mlp",
+    "seed": 6101
+  },
+  "teacher": {
+    "action_accuracy": 1.0,
+    "decisions": 1024,
+    "optimizer_updates": 1024,
+    "sequence_accuracy": 1.0
+  }
+}

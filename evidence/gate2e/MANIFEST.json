@@ -1,0 +1,86 @@
+{
+  "PROTOCOL.md": {
+    "bytes": 1954,
+    "sha256": "6e3d93225a3a191363e7d366dbed5b49a70b8d52b48b99749521b82913ed0a13"
+  },
+  "README.md": {
+    "bytes": 6143,
+    "sha256": "2c1b69005417b15dcc759234fead774efa23a980a7d99b288affe23036fe665b"
+  },
+  "data/graph_223.npz": {
+    "bytes": 327466,
+    "sha256": "49e0743b352595b6393e5cabb241c36414bf5aff3b5d0cc93a14b374656361a3"
+  },
+  "data/graph_239.npz": {
+    "bytes": 324338,
+    "sha256": "9eff12c74c6b9618d3252bd9eee6eb811078e7df607b4383512ebd290385a4ce"
+  },
+  "packets/fly_culture_capsule_241b.iapx": {
+    "bytes": 241,
+    "sha256": "2de2cd399b75dfbd56c64f6dc66dda5a14a3f90860bbff9e83db14fb54734163"
+  },
+  "packets/fly_teacher_97b.iap": {
+    "bytes": 97,
+    "sha256": "4bb3a4f5c1cd3b8cf5166afbfbace1ddd7b7b34156701c9f91beb3146f5c2039"
+  },
+  "packets/source_relational_atlas_144b.bin": {
+    "bytes": 144,
+    "sha256": "e9dc78b20ac3eba791c384ee42e023a6de4f9f277d240453b45e372cebcd5a57"
+  },
+  "packets/transformer_culture_capsule_241b.iapx": {
+    "bytes": 241,
+    "sha256": "4e5d4bfdf7103faad91bc373a562328bffee35302a1ec4bad74a137da2a11623"
+  },
+  "packets/transformer_teacher_97b.iap": {
+    "bytes": 97,
+    "sha256": "f062bc44b0a5ba7613f32f8b969dc32ce2af459817b7680407c4641a87d6ed1e"
+  },
+  "requirements.txt": {
+    "bytes": 35,
+    "sha256": "e433962cbaf411935706b3b45737c4d1c9220fea4ac135f6e5e7fca932bb19dc"
+  },
+  "results/gate2e_5d_stress_aggregate.csv": {
+    "bytes": 182,
+    "sha256": "87ecbf5f8c7e213df46546d474122084630496e7a94c71e051089f028f0b81cc"
+  },
+  "results/gate2e_5d_stress_raw.csv": {
+    "bytes": 824,
+    "sha256": "9e21ee128cafee8d7fd330370872b74dcefd6b7dd3a04c57b2387b1304d75c55"
+  },
+  "results/gate2e_grounding_aggregate.csv": {
+    "bytes": 692,
+    "sha256": "4917aa67c6d2f98e312d632749fb2ec6495e832f3b4829b485435e751235c086"
+  },
+  "results/gate2e_grounding_raw.csv": {
+    "bytes": 57607,
+    "sha256": "78985d25797ff854da665a9633ed98b980cc70159e7b0467ba1fe7ea2722edd4"
+  },
+  "results/gate2e_paired_deltas.csv": {
+    "bytes": 976,
+    "sha256": "6a3a46d1dac2904a138603e5fab11c8c00259c6eb79e486f3066c8a25f67e95b"
+  },
+  "results/gate2e_transfer_aggregate.csv": {
+    "bytes": 590,
+    "sha256": "52bfee928d93c254e9ec33b2ca46db715cf2a30577c1c180a4694524c08c30d1"
+  },
+  "results/gate2e_transfer_raw.csv": {
+    "bytes": 14817,
+    "sha256": "a07d86c156828fb9185b23f1f1972ebf6812f4e15e678f1f9730008cd01acb10"
+  },
+  "source/__pycache__/gate2e_experiment.cpython-313.pyc": {
+    "bytes": 25235,
+    "sha256": "43657bb3f48774737a1b93a3925a746bccbaaa44e54d4913af7dc6e8f59b2d70"
+  },
+  "source/__pycache__/internal_model.cpython-313.pyc": {
+    "bytes": 7334,
+    "sha256": "fe4a7590d37ecb3c9a1d60d58336e54ccced4b02d00dca76fe109c30a4435d0d"
+  },
+  "source/gate2e_experiment.py": {
+    "bytes": 11869,
+    "sha256": "9f866a1a33a08f27bdcb9b51104112e54f6d2d5c99cabb08b8710e0c70cb0242"
+  },
+  "source/internal_model.py": {
+    "bytes": 2765,
+    "sha256": "6af42fba2ecf5a16c3202b494cea93dcb20749855317dc00b19b2febefb2adef"
+  }
+}

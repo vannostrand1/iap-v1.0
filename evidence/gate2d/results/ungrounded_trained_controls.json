@@ -1,0 +1,58 @@
+[
+  {
+    "direction": "t2f",
+    "rep": 0,
+    "final_action_acc": 0.4583333333333333,
+    "final_sequence_acc": 0.125,
+    "target_policy_acc": 0.4166666666666667
+  },
+  {
+    "direction": "t2f",
+    "rep": 1,
+    "final_action_acc": 0.4583333333333333,
+    "final_sequence_acc": 0.0,
+    "target_policy_acc": 0.4583333333333333
+  },
+  {
+    "direction": "t2f",
+    "rep": 2,
+    "final_action_acc": 0.4166666666666667,
+    "final_sequence_acc": 0.0,
+    "target_policy_acc": 0.4166666666666667
+  },
+  {
+    "direction": "t2f",
+    "rep": 3,
+    "final_action_acc": 0.5416666666666666,
+    "final_sequence_acc": 0.125,
+    "target_policy_acc": 0.5416666666666666
+  },
+  {
+    "direction": "f2t",
+    "rep": 0,
+    "final_action_acc": 0.5416666666666666,
+    "final_sequence_acc": 0.125,
+    "target_policy_acc": 0.5416666666666666
+  },
+  {
+    "direction": "f2t",
+    "rep": 1,
+    "final_action_acc": 0.5833333333333334,
+    "final_sequence_acc": 0.125,
+    "target_policy_acc": 0.5833333333333334
+  },
+  {
+    "direction": "f2t",
+    "rep": 2,
+    "final_action_acc": 0.4583333333333333,
+    "final_sequence_acc": 0.125,
+    "target_policy_acc": 0.4583333333333333
+  },
+  {
+    "direction": "f2t",
+    "rep": 3,
+    "final_action_acc": 0.375,
+    "final_sequence_acc": 0.0,
+    "target_policy_acc": 0.375
+  }
+]

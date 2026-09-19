@@ -1,0 +1,1 @@
+{'evaluation': {'action_accuracy': 1.0, 'sequence_accuracy': 1.0, 'role_accuracy': 1.0}, 'calibration': {'query_kind': 'binary_reward', 'queries_used': 18, 'unique_queried_states': 18, 'action_labels_revealed': 18, 'nuisance_labels_revealed': 0, 'primitive_trial_equivalent_upper_bound': 18, 'primitive_trials_actually_executed': 0}, 'exposures': 512, 'unique_states': 24}

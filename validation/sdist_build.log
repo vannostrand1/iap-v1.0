@@ -1,0 +1,125 @@
+running sdist
+running egg_info
+writing src/inter_agent_protocol.egg-info/PKG-INFO
+writing dependency_links to src/inter_agent_protocol.egg-info/dependency_links.txt
+writing entry points to src/inter_agent_protocol.egg-info/entry_points.txt
+writing requirements to src/inter_agent_protocol.egg-info/requires.txt
+writing top-level names to src/inter_agent_protocol.egg-info/top_level.txt
+reading manifest file 'src/inter_agent_protocol.egg-info/SOURCES.txt'
+reading manifest template 'MANIFEST.in'
+warning: no previously-included files matching '*.py[cod]' found anywhere in distribution
+adding license file 'LICENSE'
+adding license file 'THIRD_PARTY_NOTICES.md'
+adding license file 'upstream/DENDRITRON_LICENSE'
+adding license file 'upstream/EON_LICENSE'
+adding license file 'upstream/NOTICE.md'
+adding license file 'upstream/connectome_source.json'
+writing manifest file 'src/inter_agent_protocol.egg-info/SOURCES.txt'
+running check
+creating inter_agent_protocol-1.0.0
+creating inter_agent_protocol-1.0.0/configs
+creating inter_agent_protocol-1.0.0/docs
+creating inter_agent_protocol-1.0.0/examples
+creating inter_agent_protocol-1.0.0/scripts
+creating inter_agent_protocol-1.0.0/src/iap
+creating inter_agent_protocol-1.0.0/src/iap/assets
+creating inter_agent_protocol-1.0.0/src/iap/assets/graphs
+creating inter_agent_protocol-1.0.0/src/iap/assets/packets
+creating inter_agent_protocol-1.0.0/src/iap/assets/teachers
+creating inter_agent_protocol-1.0.0/src/iap/grounding
+creating inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+creating inter_agent_protocol-1.0.0/tests
+creating inter_agent_protocol-1.0.0/upstream
+copying files to inter_agent_protocol-1.0.0...
+copying CHANGELOG.md -> inter_agent_protocol-1.0.0
+copying CITATION.cff -> inter_agent_protocol-1.0.0
+copying LICENSE -> inter_agent_protocol-1.0.0
+copying MANIFEST.in -> inter_agent_protocol-1.0.0
+copying README.md -> inter_agent_protocol-1.0.0
+copying THIRD_PARTY_NOTICES.md -> inter_agent_protocol-1.0.0
+copying pyproject.toml -> inter_agent_protocol-1.0.0
+copying configs/demo.json -> inter_agent_protocol-1.0.0/configs
+copying configs/fresh_confirmation.json -> inter_agent_protocol-1.0.0/configs
+copying configs/gate2c_aligned.json -> inter_agent_protocol-1.0.0/configs
+copying configs/gate2d_permutation.json -> inter_agent_protocol-1.0.0/configs
+copying configs/gate2e_relational.json -> inter_agent_protocol-1.0.0/configs
+copying configs/gate2e_stress5.json -> inter_agent_protocol-1.0.0/configs
+copying configs/gate2f_historical.json -> inter_agent_protocol-1.0.0/configs
+copying configs/gate2f_matched.json -> inter_agent_protocol-1.0.0/configs
+copying configs/passive_grounding.json -> inter_agent_protocol-1.0.0/configs
+copying configs/smoke.json -> inter_agent_protocol-1.0.0/configs
+copying docs/API.md -> inter_agent_protocol-1.0.0/docs
+copying docs/API_CHANGES.md -> inter_agent_protocol-1.0.0/docs
+copying docs/CONFIGURATION.md -> inter_agent_protocol-1.0.0/docs
+copying docs/DATA_PROVENANCE.md -> inter_agent_protocol-1.0.0/docs
+copying docs/HISTORY.md -> inter_agent_protocol-1.0.0/docs
+copying docs/LIMITATIONS.md -> inter_agent_protocol-1.0.0/docs
+copying docs/METHOD.md -> inter_agent_protocol-1.0.0/docs
+copying docs/PACKET_FORMAT.md -> inter_agent_protocol-1.0.0/docs
+copying docs/PROTOCOL.md -> inter_agent_protocol-1.0.0/docs
+copying docs/PUBLICATION_CHECKLIST.md -> inter_agent_protocol-1.0.0/docs
+copying docs/PUBLISH_TO_GITHUB.md -> inter_agent_protocol-1.0.0/docs
+copying docs/RELEASE_VALIDATION.md -> inter_agent_protocol-1.0.0/docs
+copying docs/REPRODUCIBILITY.md -> inter_agent_protocol-1.0.0/docs
+copying docs/TOOLING_REFERENCES.md -> inter_agent_protocol-1.0.0/docs
+copying docs/WINDOWS.md -> inter_agent_protocol-1.0.0/docs
+copying examples/custom_recipient.py -> inter_agent_protocol-1.0.0/examples
+copying examples/inspect_capsule.py -> inter_agent_protocol-1.0.0/examples
+copying scripts/bootstrap.py -> inter_agent_protocol-1.0.0/scripts
+copying scripts/check_wheel.py -> inter_agent_protocol-1.0.0/scripts
+copying scripts/plot_results.py -> inter_agent_protocol-1.0.0/scripts
+copying scripts/run_archived_gate2f.py -> inter_agent_protocol-1.0.0/scripts
+copying scripts/verify_release.py -> inter_agent_protocol-1.0.0/scripts
+copying src/iap/__init__.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/__main__.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/absorption.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/audit.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/cli.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/contracts.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/distillation.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/experiments.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/models.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/packets.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/reporting.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/resources.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/tasks.py -> inter_agent_protocol-1.0.0/src/iap
+copying src/iap/assets/MANIFEST.json -> inter_agent_protocol-1.0.0/src/iap/assets
+copying src/iap/assets/__init__.py -> inter_agent_protocol-1.0.0/src/iap/assets
+copying src/iap/assets/graphs/graph_211.npz -> inter_agent_protocol-1.0.0/src/iap/assets/graphs
+copying src/iap/assets/graphs/graph_223.npz -> inter_agent_protocol-1.0.0/src/iap/assets/graphs
+copying src/iap/assets/graphs/graph_239.npz -> inter_agent_protocol-1.0.0/src/iap/assets/graphs
+copying src/iap/assets/packets/fly_culture_capsule_241b.iapx -> inter_agent_protocol-1.0.0/src/iap/assets/packets
+copying src/iap/assets/packets/fly_teacher_97b.iap -> inter_agent_protocol-1.0.0/src/iap/assets/packets
+copying src/iap/assets/packets/mlp_teacher_97b.iap -> inter_agent_protocol-1.0.0/src/iap/assets/packets
+copying src/iap/assets/packets/source_relational_atlas_144b.bin -> inter_agent_protocol-1.0.0/src/iap/assets/packets
+copying src/iap/assets/packets/transformer_culture_capsule_241b.iapx -> inter_agent_protocol-1.0.0/src/iap/assets/packets
+copying src/iap/assets/packets/transformer_teacher_97b.iap -> inter_agent_protocol-1.0.0/src/iap/assets/packets
+copying src/iap/assets/teachers/fly_teacher_state.pt -> inter_agent_protocol-1.0.0/src/iap/assets/teachers
+copying src/iap/assets/teachers/mlp_teacher_state.pt -> inter_agent_protocol-1.0.0/src/iap/assets/teachers
+copying src/iap/assets/teachers/transformer_teacher_state.pt -> inter_agent_protocol-1.0.0/src/iap/assets/teachers
+copying src/iap/grounding/__init__.py -> inter_agent_protocol-1.0.0/src/iap/grounding
+copying src/iap/grounding/common.py -> inter_agent_protocol-1.0.0/src/iap/grounding
+copying src/iap/grounding/ontology.py -> inter_agent_protocol-1.0.0/src/iap/grounding
+copying src/iap/grounding/permutation.py -> inter_agent_protocol-1.0.0/src/iap/grounding
+copying src/iap/grounding/relational.py -> inter_agent_protocol-1.0.0/src/iap/grounding
+copying src/inter_agent_protocol.egg-info/PKG-INFO -> inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+copying src/inter_agent_protocol.egg-info/SOURCES.txt -> inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+copying src/inter_agent_protocol.egg-info/dependency_links.txt -> inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+copying src/inter_agent_protocol.egg-info/entry_points.txt -> inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+copying src/inter_agent_protocol.egg-info/requires.txt -> inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+copying src/inter_agent_protocol.egg-info/top_level.txt -> inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+copying tests/conftest.py -> inter_agent_protocol-1.0.0/tests
+copying tests/test_contracts_tasks.py -> inter_agent_protocol-1.0.0/tests
+copying tests/test_grounding.py -> inter_agent_protocol-1.0.0/tests
+copying tests/test_learning.py -> inter_agent_protocol-1.0.0/tests
+copying tests/test_packets.py -> inter_agent_protocol-1.0.0/tests
+copying tests/test_reporting_runner.py -> inter_agent_protocol-1.0.0/tests
+copying upstream/DENDRITRON_LICENSE -> inter_agent_protocol-1.0.0/upstream
+copying upstream/EON_LICENSE -> inter_agent_protocol-1.0.0/upstream
+copying upstream/NOTICE.md -> inter_agent_protocol-1.0.0/upstream
+copying upstream/connectome_source.json -> inter_agent_protocol-1.0.0/upstream
+copying src/inter_agent_protocol.egg-info/SOURCES.txt -> inter_agent_protocol-1.0.0/src/inter_agent_protocol.egg-info
+Writing inter_agent_protocol-1.0.0/setup.cfg
+Creating tar archive
+removing 'inter_agent_protocol-1.0.0' (and everything under it)
+inter_agent_protocol-1.0.0.tar.gz

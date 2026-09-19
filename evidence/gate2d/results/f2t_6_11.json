@@ -1,0 +1,326 @@
+[
+  {
+    "teacher": "fly",
+    "student": "transformer",
+    "rep": 6,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 4,
+    "identity_packet_policy_acc": 0.4583333333333333,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 0.9583333333333334,
+    "final_sequence_acc": 0.875,
+    "checkpoints": {
+      "0": [
+        0.2916666666666667,
+        0.0
+      ],
+      "32": [
+        0.5,
+        0.125
+      ],
+      "64": [
+        0.5833333333333334,
+        0.125
+      ],
+      "128": [
+        0.75,
+        0.375
+      ],
+      "256": [
+        0.9583333333333334,
+        0.875
+      ]
+    },
+    "alien_perm": [
+      2,
+      3,
+      0,
+      4,
+      1,
+      5
+    ],
+    "alien_sign": [
+      -1.0,
+      1.0,
+      -1.0,
+      1.0,
+      -1.0,
+      1.0
+    ],
+    "alien_action_swap": 1,
+    "flyseed": null,
+    "absorb_seconds": 1.2033345699310303
+  },
+  {
+    "teacher": "fly",
+    "student": "transformer",
+    "rep": 7,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 4,
+    "identity_packet_policy_acc": 0.7083333333333334,
+    "identity_packet_sequence_acc": 0.25,
+    "final_action_acc": 0.8333333333333334,
+    "final_sequence_acc": 0.5,
+    "checkpoints": {
+      "0": [
+        0.5,
+        0.125
+      ],
+      "32": [
+        0.5,
+        0.0
+      ],
+      "64": [
+        0.5833333333333334,
+        0.125
+      ],
+      "128": [
+        0.8333333333333334,
+        0.625
+      ],
+      "256": [
+        0.8333333333333334,
+        0.5
+      ]
+    },
+    "alien_perm": [
+      2,
+      5,
+      1,
+      3,
+      4,
+      0
+    ],
+    "alien_sign": [
+      1.0,
+      1.0,
+      -1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": null,
+    "absorb_seconds": 0.5587687492370605
+  },
+  {
+    "teacher": "fly",
+    "student": "transformer",
+    "rep": 8,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 4,
+    "identity_packet_policy_acc": 0.5416666666666666,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.625,
+        0.375
+      ],
+      "32": [
+        0.625,
+        0.125
+      ],
+      "64": [
+        0.75,
+        0.375
+      ],
+      "128": [
+        0.9166666666666666,
+        0.75
+      ],
+      "256": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      0,
+      3,
+      5,
+      4,
+      1,
+      2
+    ],
+    "alien_sign": [
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": null,
+    "absorb_seconds": 0.5325491428375244
+  },
+  {
+    "teacher": "fly",
+    "student": "transformer",
+    "rep": 9,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 4,
+    "identity_packet_policy_acc": 0.5,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 0.875,
+    "final_sequence_acc": 0.625,
+    "checkpoints": {
+      "0": [
+        0.5,
+        0.0
+      ],
+      "32": [
+        0.4583333333333333,
+        0.125
+      ],
+      "64": [
+        0.625,
+        0.25
+      ],
+      "128": [
+        0.9166666666666666,
+        0.75
+      ],
+      "256": [
+        0.875,
+        0.625
+      ]
+    },
+    "alien_perm": [
+      4,
+      3,
+      0,
+      1,
+      5,
+      2
+    ],
+    "alien_sign": [
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": null,
+    "absorb_seconds": 0.5551908016204834
+  },
+  {
+    "teacher": "fly",
+    "student": "transformer",
+    "rep": 10,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 4,
+    "identity_packet_policy_acc": 0.3333333333333333,
+    "identity_packet_sequence_acc": 0.0,
+    "final_action_acc": 0.9583333333333334,
+    "final_sequence_acc": 0.875,
+    "checkpoints": {
+      "0": [
+        0.4583333333333333,
+        0.0
+      ],
+      "32": [
+        0.4583333333333333,
+        0.125
+      ],
+      "64": [
+        0.5416666666666666,
+        0.125
+      ],
+      "128": [
+        0.7083333333333334,
+        0.375
+      ],
+      "256": [
+        0.9583333333333334,
+        0.875
+      ]
+    },
+    "alien_perm": [
+      3,
+      1,
+      5,
+      0,
+      4,
+      2
+    ],
+    "alien_sign": [
+      -1.0,
+      -1.0,
+      -1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alien_action_swap": 1,
+    "flyseed": null,
+    "absorb_seconds": 0.5418782234191895
+  },
+  {
+    "teacher": "fly",
+    "student": "transformer",
+    "rep": 11,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 4,
+    "identity_packet_policy_acc": 0.4583333333333333,
+    "identity_packet_sequence_acc": 0.0,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.5,
+        0.0
+      ],
+      "32": [
+        0.6666666666666666,
+        0.375
+      ],
+      "64": [
+        0.9166666666666666,
+        0.75
+      ],
+      "128": [
+        1.0,
+        1.0
+      ],
+      "256": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      2,
+      1,
+      3,
+      5,
+      4,
+      0
+    ],
+    "alien_sign": [
+      1.0,
+      -1.0,
+      1.0,
+      -1.0,
+      -1.0,
+      1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": null,
+    "absorb_seconds": 0.5470983982086182
+  }
+]

@@ -1,0 +1,3 @@
+direction,n,mean_action_acc,action_ci_low,action_ci_high,mean_sequence_acc,sequence_ci_low,sequence_ci_high,perfect_replicates,mean_ungrounded_target_action_acc,mean_ungrounded_target_sequence_acc
+Transformer -> Fly,12,1.0,1.0,1.0,1.0,1.0,1.0,12,0.45486111111111116,0.07291666666666667
+Fly -> Transformer,12,0.96875,0.9236111111111112,1.0,0.9166666666666666,0.7916666666666666,1.0,10,0.5034722222222222,0.11458333333333333

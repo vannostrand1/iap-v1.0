@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inter-agent-protocol"
+version = "1.0.0"
+description = "Bounded cross-architecture behavioral transfer through compact cultural packets and empirical grounding"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{name = "Richard Anthony Aragon"}]
+keywords = ["knowledge-transfer", "distillation", "semantic-grounding", "reproducibility"]
+classifiers = ["Development Status :: 4 - Beta", "Programming Language :: Python :: 3", "Topic :: Scientific/Engineering :: Artificial Intelligence"]
+dependencies = ["numpy>=1.26,<3", "scipy>=1.11,<2", "torch>=2.6,<3"]
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md", "upstream/*"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "build>=1.2,<2", "ruff>=0.9,<1"]
+plots = ["matplotlib>=3.8,<4"]
+
+[project.scripts]
+iap = "iap.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"iap.assets" = ["MANIFEST.json", "graphs/*.npz", "packets/*", "teachers/*.pt"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+markers = ["integration: trains small recipient models or executes grounding", "slow: longer archived numerical comparisons"]
+
+[tool.ruff]
+line-length = 120
+exclude = ["archive", "evidence", "build", "dist", "validation"]
+
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82"]

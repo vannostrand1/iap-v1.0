@@ -1,0 +1,54 @@
+{
+  "assets_verified": 13,
+  "config": {
+    "active_grounding": true,
+    "conditions": [
+      "grounded_culture",
+      "query_only_no_packet",
+      "ungrounded_identity"
+    ],
+    "direction_stride": 100000,
+    "directions": [
+      "f2t",
+      "t2f"
+    ],
+    "family": "ontology",
+    "name": "smoke",
+    "outdim": 8,
+    "packet_paths": {},
+    "pairing": "matched_initialization",
+    "purpose": "engineering validation, not a new scientific confirmation",
+    "queries": 36,
+    "replicates": 1,
+    "seed_base": 1200000,
+    "start_rep": 0,
+    "threads": 1,
+    "updates": {
+      "f2t": 64,
+      "t2f": 64
+    }
+  },
+  "config_sha256": "a7904b494d9840b07703a7ef86b313a0a959def00fd7f78d3b3064046e6e7b29",
+  "external_packet_sha256": {},
+  "finished_utc": "2026-09-19T13:34:35.184358+00:00",
+  "machine": {
+    "device": "cpu",
+    "machine": "x86_64",
+    "packages": {
+      "numpy": "2.3.5",
+      "scipy": "1.17.0",
+      "torch": "2.10.0+cpu"
+    },
+    "platform": "Linux",
+    "privacy": "no username, hostname, environment variables, or absolute user paths recorded",
+    "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+    "torch_threads": 1
+  },
+  "result_rows": 6,
+  "result_sha256": "46488d4576639ce435ff37cae142d92fbe99b516273f723d239cd891295e2316",
+  "scope": "finite-support research benchmark; not a scientific pass/fail verdict",
+  "source_sha256": "078b55cd004f45288aa526e17adc01b3faf409aa773913dcd8e69d752e0e8b3d",
+  "started_utc": "2026-09-19T13:34:32.059803+00:00",
+  "status": "completed",
+  "version": "1.0.0"
+}

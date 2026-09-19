@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this software release when using the implementation or archived experiments."
+type: software
+title: "Inter-Agent Protocol: Architecture-Neutral Cultural Transmission Across Models, Representations, and Bounded Ontologies"
+authors:
+  - family-names: Aragon
+    given-names: Richard Anthony
+version: 1.0.0
+date-released: 2026-09-19
+abstract: >-
+  Research implementation of compact policy-surrogate packets, bounded
+  empirical grounding, and native recipient absorption in finite symbolic
+  Convention Relay tasks. Includes historical evidence and reproducibility
+  tooling. This software release is not a peer-reviewed publication or a
+  demonstration of unrestricted ontology discovery.
+keywords:
+  - inter-agent knowledge transfer
+  - policy distillation
+  - semantic grounding
+  - reproducibility

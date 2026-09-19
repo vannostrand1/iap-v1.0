@@ -1,0 +1,83 @@
+{
+  "batch_examples": 15888,
+  "batch_size_max": 32,
+  "changed_state_keys": [
+    "feature",
+    "cls",
+    "val.weight",
+    "enc.layers.0.self_attn.in_proj_weight",
+    "enc.layers.0.self_attn.in_proj_bias",
+    "enc.layers.0.self_attn.out_proj.weight",
+    "enc.layers.0.self_attn.out_proj.bias",
+    "enc.layers.0.linear1.weight",
+    "enc.layers.0.linear1.bias",
+    "enc.layers.0.linear2.weight",
+    "enc.layers.0.linear2.bias",
+    "enc.layers.0.norm1.weight",
+    "enc.layers.0.norm1.bias",
+    "enc.layers.0.norm2.weight",
+    "enc.layers.0.norm2.bias",
+    "out.weight",
+    "out.bias"
+  ],
+  "checkpoint_sha256": "4c19aa3becd4ef1e4f4febd0e2253fbddc188af98ad51d6abfb7c2bf5f48a709",
+  "checkpoints": {
+    "0": {
+      "action_accuracy": 0.25,
+      "sequence_accuracy": 0.0
+    },
+    "64": {
+      "action_accuracy": 0.3958333333333333,
+      "sequence_accuracy": 0.0
+    },
+    "128": {
+      "action_accuracy": 0.5625,
+      "sequence_accuracy": 0.0
+    },
+    "256": {
+      "action_accuracy": 0.5833333333333334,
+      "sequence_accuracy": 0.0
+    },
+    "512": {
+      "action_accuracy": 0.5833333333333334,
+      "sequence_accuracy": 0.0
+    }
+  },
+  "environmental_rewards": 0,
+  "exposure_draws": 512,
+  "final_state_sha256": "a88bacf9d02843757be72e24a5cfa1353aff748e48d396ec8ebf3c3058be14bf",
+  "fixed_buffers_unchanged": true,
+  "initial_state_sha256": "770a9d57a373563ef25cd6c5b923f24451d1fc7b454faa3049912c81194fbb25",
+  "learning_rate": 0.01,
+  "losses": [
+    {
+      "mse": 0.17366591095924377,
+      "update": 64
+    },
+    {
+      "mse": 0.03337351605296135,
+      "update": 128
+    },
+    {
+      "mse": 4.641600025934167e-05,
+      "update": 256
+    },
+    {
+      "mse": 0.0005166447954252362,
+      "update": 512
+    }
+  ],
+  "model_spec": {
+    "actions": 4,
+    "fly_seed": 7103,
+    "inputs": 8,
+    "kind": "transformer",
+    "seed": 1301015
+  },
+  "optimizer": "Adam",
+  "packet_access_during_evaluation": false,
+  "pairing": "historical_offsets",
+  "reload_logits_equal": true,
+  "unique_states_exposed": 23,
+  "updates": 512
+}

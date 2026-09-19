@@ -1,0 +1,211 @@
+{
+  "atlas_payload_bytes": 144,
+  "diagnostics": {
+    "active": true,
+    "family": "bounded-two-step-macros",
+    "pattern_cache_entries": 576,
+    "viable_codebooks": 1
+  },
+  "envelope_wire_bytes": 442,
+  "grounding_metrics": {
+    "action_accuracy": 1.0,
+    "role_accuracy": 1.0,
+    "sequence_accuracy": 1.0
+  },
+  "oracle": {
+    "action_labels_revealed": 23,
+    "nuisance_labels_revealed": 13,
+    "primitive_trial_equivalent_upper_bound": 144,
+    "primitive_trials_actually_executed": 0,
+    "queries_used": 36,
+    "query_kind": "action_or_nuisance",
+    "unique_queried_states": 36
+  },
+  "policy_payload_bytes": 97,
+  "records": [
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 8
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 41
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 44
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 5
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 2
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 29
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 24
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 19
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 16
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 20
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 36
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 62
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 39
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 59
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 51
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 3
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 53
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 26
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 22
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 56
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 64
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 46
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 33
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 6
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 34
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 27
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 30
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 49
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 61
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 65
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 17
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 28
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 31
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 32
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 40
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 45
+    }
+  ],
+  "source_payload_sha256": "4e5d4bfdf7103faad91bc373a562328bffee35302a1ec4bad74a137da2a11623",
+  "teacher": "transformer",
+  "total_payload_bytes": 241,
+  "wall_seconds": 0.5328786659999878
+}

@@ -1,0 +1,211 @@
+{
+  "atlas_payload_bytes": 144,
+  "diagnostics": {
+    "active": true,
+    "family": "bounded-two-step-macros",
+    "pattern_cache_entries": 720,
+    "viable_codebooks": 1
+  },
+  "envelope_wire_bytes": 442,
+  "grounding_metrics": {
+    "action_accuracy": 1.0,
+    "role_accuracy": 1.0,
+    "sequence_accuracy": 1.0
+  },
+  "oracle": {
+    "action_labels_revealed": 24,
+    "nuisance_labels_revealed": 12,
+    "primitive_trial_equivalent_upper_bound": 144,
+    "primitive_trials_actually_executed": 0,
+    "queries_used": 36,
+    "query_kind": "action_or_nuisance",
+    "unique_queried_states": 36
+  },
+  "policy_payload_bytes": 97,
+  "records": [
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 62
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 65
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 50
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 47
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 3
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 7
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 12
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 16
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 14
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 23
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 20
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 32
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 41
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 43
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 58
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 37
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 28
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 60
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 5
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 39
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 0,
+      "state": 30
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 55
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 34
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 1,
+      "state": 67
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 3,
+      "state": 1
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 10
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 21
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 24
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": 2,
+      "state": 51
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 53
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 56
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 0
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 2
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 4
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 9
+    },
+    {
+      "kind": "action_or_nuisance",
+      "label": -1,
+      "state": 22
+    }
+  ],
+  "source_payload_sha256": "2de2cd399b75dfbd56c64f6dc66dda5a14a3f90860bbff9e83db14fb54734163",
+  "teacher": "fly",
+  "total_payload_bytes": 241,
+  "wall_seconds": 0.5171385159999318
+}

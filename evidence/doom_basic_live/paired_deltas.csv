@@ -1,0 +1,6 @@
+checkpoint,paired_episodes,culture_minus_scratch_kill,kill_ci_low,kill_ci_high,culture_minus_scratch_return,return_ci_low,return_ci_high
+0,40,0.0,0.0,0.0,0.0,0.0,0.0
+1000,40,0.0,0.0,0.0,-2.125,-10.525,5.6
+2000,40,0.0,0.0,0.0,-3.225,-11.450624999999999,3.2
+4000,40,0.0,0.0,0.0,-0.8,-6.75,3.85
+8000,40,0.0,0.0,0.0,1.075,-2.1,4.85

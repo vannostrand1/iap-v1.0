@@ -1,0 +1,94 @@
+{"direction": "f2t", "event": "trial_start", "rep": 0}
+{"event": "grounding_query", "family": "ontology", "queries": 1, "state": 8}
+{"event": "grounding_query", "family": "ontology", "queries": 2, "state": 25}
+{"event": "grounding_query", "family": "ontology", "queries": 3, "state": 4}
+{"event": "grounding_query", "family": "ontology", "queries": 4, "state": 2}
+{"event": "grounding_query", "family": "ontology", "queries": 5, "state": 44}
+{"event": "grounding_query", "family": "ontology", "queries": 6, "state": 46}
+{"event": "grounding_query", "family": "ontology", "queries": 7, "state": 53}
+{"event": "grounding_query", "family": "ontology", "queries": 8, "state": 51}
+{"event": "grounding_query", "family": "ontology", "queries": 9, "state": 55}
+{"event": "grounding_query", "family": "ontology", "queries": 10, "state": 62}
+{"event": "grounding_query", "family": "ontology", "queries": 11, "state": 18}
+{"event": "grounding_query", "family": "ontology", "queries": 12, "state": 20}
+{"event": "grounding_query", "family": "ontology", "queries": 13, "state": 17}
+{"event": "grounding_query", "family": "ontology", "queries": 14, "state": 38}
+{"event": "grounding_query", "family": "ontology", "queries": 15, "state": 64}
+{"event": "grounding_query", "family": "ontology", "queries": 16, "state": 49}
+{"event": "grounding_query", "family": "ontology", "queries": 17, "state": 34}
+{"event": "grounding_query", "family": "ontology", "queries": 18, "state": 40}
+{"event": "grounding_query", "family": "ontology", "queries": 19, "state": 60}
+{"event": "grounding_query", "family": "ontology", "queries": 20, "state": 6}
+{"event": "grounding_query", "family": "ontology", "queries": 21, "state": 23}
+{"event": "grounding_query", "family": "ontology", "queries": 22, "state": 57}
+{"event": "grounding_query", "family": "ontology", "queries": 23, "state": 66}
+{"event": "grounding_query", "family": "ontology", "queries": 24, "state": 9}
+{"event": "grounding_query", "family": "ontology", "queries": 25, "state": 0}
+{"event": "grounding_query", "family": "ontology", "queries": 26, "state": 36}
+{"event": "grounding_query", "family": "ontology", "queries": 27, "state": 42}
+{"event": "grounding_query", "family": "ontology", "queries": 28, "state": 7}
+{"event": "grounding_query", "family": "ontology", "queries": 29, "state": 15}
+{"event": "grounding_query", "family": "ontology", "queries": 30, "state": 19}
+{"event": "grounding_query", "family": "ontology", "queries": 31, "state": 24}
+{"event": "grounding_query", "family": "ontology", "queries": 32, "state": 32}
+{"event": "grounding_query", "family": "ontology", "queries": 33, "state": 37}
+{"event": "grounding_query", "family": "ontology", "queries": 34, "state": 45}
+{"event": "grounding_query", "family": "ontology", "queries": 35, "state": 50}
+{"event": "grounding_query", "family": "ontology", "queries": 36, "state": 56}
+{"condition": "grounded_culture", "direction": "f2t", "event": "condition_start", "rep": 0}
+{"event": "absorption_checkpoint", "loss": 0.4727640450000763, "update": 64}
+{"action_accuracy": 0.5, "condition": "grounded_culture", "direction": "f2t", "event": "condition_done", "rep": 0, "sequence_accuracy": 0.0}
+{"condition": "query_only_no_packet", "direction": "f2t", "event": "condition_start", "rep": 0}
+{"event": "absorption_checkpoint", "loss": 0.12833580374717712, "update": 64}
+{"action_accuracy": 0.4375, "condition": "query_only_no_packet", "direction": "f2t", "event": "condition_done", "rep": 0, "sequence_accuracy": 0.0}
+{"condition": "ungrounded_identity", "direction": "f2t", "event": "condition_start", "rep": 0}
+{"event": "absorption_checkpoint", "loss": 0.4627629816532135, "update": 64}
+{"action_accuracy": 0.2916666666666667, "condition": "ungrounded_identity", "direction": "f2t", "event": "condition_done", "rep": 0, "sequence_accuracy": 0.0}
+{"direction": "t2f", "event": "trial_start", "rep": 0}
+{"event": "grounding_query", "family": "ontology", "queries": 1, "state": 53}
+{"event": "grounding_query", "family": "ontology", "queries": 2, "state": 56}
+{"event": "grounding_query", "family": "ontology", "queries": 3, "state": 33}
+{"event": "grounding_query", "family": "ontology", "queries": 4, "state": 30}
+{"event": "grounding_query", "family": "ontology", "queries": 5, "state": 50}
+{"event": "grounding_query", "family": "ontology", "queries": 6, "state": 45}
+{"event": "grounding_query", "family": "ontology", "queries": 7, "state": 3}
+{"event": "grounding_query", "family": "ontology", "queries": 8, "state": 7}
+{"event": "grounding_query", "family": "ontology", "queries": 9, "state": 12}
+{"event": "grounding_query", "family": "ontology", "queries": 10, "state": 10}
+{"event": "grounding_query", "family": "ontology", "queries": 11, "state": 16}
+{"event": "grounding_query", "family": "ontology", "queries": 12, "state": 5}
+{"event": "grounding_query", "family": "ontology", "queries": 13, "state": 39}
+{"event": "grounding_query", "family": "ontology", "queries": 14, "state": 37}
+{"event": "grounding_query", "family": "ontology", "queries": 15, "state": 43}
+{"event": "grounding_query", "family": "ontology", "queries": 16, "state": 65}
+{"event": "grounding_query", "family": "ontology", "queries": 17, "state": 63}
+{"event": "grounding_query", "family": "ontology", "queries": 18, "state": 21}
+{"event": "grounding_query", "family": "ontology", "queries": 19, "state": 19}
+{"event": "grounding_query", "family": "ontology", "queries": 20, "state": 41}
+{"event": "grounding_query", "family": "ontology", "queries": 21, "state": 25}
+{"event": "grounding_query", "family": "ontology", "queries": 22, "state": 23}
+{"event": "grounding_query", "family": "ontology", "queries": 23, "state": 1}
+{"event": "grounding_query", "family": "ontology", "queries": 24, "state": 14}
+{"event": "grounding_query", "family": "ontology", "queries": 25, "state": 61}
+{"event": "grounding_query", "family": "ontology", "queries": 26, "state": 26}
+{"event": "grounding_query", "family": "ontology", "queries": 27, "state": 28}
+{"event": "grounding_query", "family": "ontology", "queries": 28, "state": 51}
+{"event": "grounding_query", "family": "ontology", "queries": 29, "state": 54}
+{"event": "grounding_query", "family": "ontology", "queries": 30, "state": 66}
+{"event": "grounding_query", "family": "ontology", "queries": 31, "state": 0}
+{"event": "grounding_query", "family": "ontology", "queries": 32, "state": 8}
+{"event": "grounding_query", "family": "ontology", "queries": 33, "state": 9}
+{"event": "grounding_query", "family": "ontology", "queries": 34, "state": 13}
+{"event": "grounding_query", "family": "ontology", "queries": 35, "state": 18}
+{"event": "grounding_query", "family": "ontology", "queries": 36, "state": 27}
+{"condition": "grounded_culture", "direction": "t2f", "event": "condition_start", "rep": 0}
+{"event": "absorption_checkpoint", "loss": 0.8375948667526245, "update": 64}
+{"action_accuracy": 0.4166666666666667, "condition": "grounded_culture", "direction": "t2f", "event": "condition_done", "rep": 0, "sequence_accuracy": 0.0}
+{"condition": "query_only_no_packet", "direction": "t2f", "event": "condition_start", "rep": 0}
+{"event": "absorption_checkpoint", "loss": 0.7213342189788818, "update": 64}
+{"action_accuracy": 0.2916666666666667, "condition": "query_only_no_packet", "direction": "t2f", "event": "condition_done", "rep": 0, "sequence_accuracy": 0.0}
+{"condition": "ungrounded_identity", "direction": "t2f", "event": "condition_start", "rep": 0}
+{"event": "absorption_checkpoint", "loss": 0.8418027758598328, "update": 64}
+{"action_accuracy": 0.1875, "condition": "ungrounded_identity", "direction": "t2f", "event": "condition_done", "rep": 0, "sequence_accuracy": 0.0}
+{"event": "run_completed", "rows": 6}
+{"directory": "validation/matched_smoke", "event": "output_ready", "scientific_confirmation": false}

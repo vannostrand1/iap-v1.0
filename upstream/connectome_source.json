@@ -1,0 +1,10 @@
+{
+  "kind": "real_flywire_v783",
+  "commit": "a3db62f9436074e485c0278290c2164ed6150808",
+  "total_neurons": 138639,
+  "total_nonzero_edges": 15091983,
+  "data_git_blobs": {
+    "2025_Completeness_783.csv": "7bdf251b81e857b19f2cf664eeb2e31ba614151f",
+    "2025_Connectivity_783.parquet": "d386555d1a5f40ebfa1380bcb05b1fab044855fd"
+  }
+}

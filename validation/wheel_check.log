@@ -1,0 +1,11 @@
+WARNING: The directory '/home/oai/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Processing ./dist/inter_agent_protocol-1.0.0-py3-none-any.whl
+Installing collected packages: inter-agent-protocol
+Successfully installed inter-agent-protocol-1.0.0
+1.0.0
+{"assets": {"asset_count": 13, "assets": ["__init__.py", "graphs/graph_211.npz", "graphs/graph_223.npz", "graphs/graph_239.npz", "packets/fly_culture_capsule_241b.iapx", "packets/fly_teacher_97b.iap", "packets/mlp_teacher_97b.iap", "packets/source_relational_atlas_144b.bin", "packets/transformer_culture_capsule_241b.iapx", "packets/transformer_teacher_97b.iap", "teachers/fly_teacher_state.pt", "teachers/mlp_teacher_state.pt", "teachers/transformer_teacher_state.pt"], "status": "passed"}, "runtime": {"device": "cpu", "machine": "x86_64", "packages": {"numpy": "2.3.5", "scipy": "1.17.0", "torch": "2.10.0+cpu"}, "platform": "Linux", "privacy": "no username, hostname, environment variables, or absolute user paths recorded", "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]", "torch_threads": 5}, "version": "1.0.0"}
+{"atlas_bytes": 144, "envelope_wire_bytes": 442, "payload_bytes": 241, "policy_bytes": 97, "sha256": "2de2cd399b75dfbd56c64f6dc66dda5a14a3f90860bbff9e83db14fb54734163"}
+{"atlas_bytes": 144, "envelope_wire_bytes": 442, "payload_bytes": 241, "policy_bytes": 97, "sha256": "2de2cd399b75dfbd56c64f6dc66dda5a14a3f90860bbff9e83db14fb54734163"}
+{"directory": "/tmp/iap_wheel_check_nt56wtpq/smoke", "event": "output_ready", "scientific_confirmation": false}
+{"action_accuracy": 0.5, "model_spec": {"actions": 4, "fly_seed": 7102, "inputs": 8, "kind": "transformer", "seed": 1300010}, "packet_used": false, "sequence_accuracy": 0.0}
+Wheel isolated-target verification passed.

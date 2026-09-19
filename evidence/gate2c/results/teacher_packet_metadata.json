@@ -1,0 +1,44 @@
+{
+  "fly": {
+    "teacher_metrics": [
+      1.0,
+      1.0
+    ],
+    "params": 8084,
+    "packet_bytes": 97,
+    "packet_acc": 1.0,
+    "packet_sha256": "4bb3a4f5c1cd3b8cf5166afbfbace1ddd7b7b34156701c9f91beb3146f5c2039"
+  },
+  "mlp": {
+    "teacher_metrics": [
+      1.0,
+      1.0
+    ],
+    "params": 1346,
+    "packet_bytes": 97,
+    "packet_acc": 1.0,
+    "packet_sha256": "e20fbdef9f595929fdcf481fea44904009355f564218a3afc8bc3b04db9c2dab"
+  },
+  "transformer": {
+    "teacher_metrics": [
+      1.0,
+      1.0
+    ],
+    "params": 5114,
+    "packet_bytes": 97,
+    "packet_acc": 1.0,
+    "packet_sha256": "f062bc44b0a5ba7613f32f8b969dc32ce2af459817b7680407c4641a87d6ed1e"
+  },
+  "packet_diff_fly_mlp": {
+    "different_bytes": 85,
+    "total": 97
+  },
+  "packet_diff_fly_transformer": {
+    "different_bytes": 85,
+    "total": 97
+  },
+  "packet_diff_mlp_transformer": {
+    "different_bytes": 83,
+    "total": 97
+  }
+}

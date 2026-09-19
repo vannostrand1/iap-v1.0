@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "path": "__init__.py",
+      "sha256": "f783defb6b47f0040c7a56206251f677ea29c27cb34dd06a93de0df7eca02515",
+      "bytes": 56
+    },
+    {
+      "path": "graphs/graph_211.npz",
+      "sha256": "2deb23657e06bb2848c939283724f16b7080d8815d4ea656ee82c37b1b165e4f",
+      "bytes": 301243
+    },
+    {
+      "path": "graphs/graph_223.npz",
+      "sha256": "49e0743b352595b6393e5cabb241c36414bf5aff3b5d0cc93a14b374656361a3",
+      "bytes": 327466
+    },
+    {
+      "path": "graphs/graph_239.npz",
+      "sha256": "9eff12c74c6b9618d3252bd9eee6eb811078e7df607b4383512ebd290385a4ce",
+      "bytes": 324338
+    },
+    {
+      "path": "packets/fly_culture_capsule_241b.iapx",
+      "sha256": "2de2cd399b75dfbd56c64f6dc66dda5a14a3f90860bbff9e83db14fb54734163",
+      "bytes": 241
+    },
+    {
+      "path": "packets/fly_teacher_97b.iap",
+      "sha256": "4bb3a4f5c1cd3b8cf5166afbfbace1ddd7b7b34156701c9f91beb3146f5c2039",
+      "bytes": 97
+    },
+    {
+      "path": "packets/mlp_teacher_97b.iap",
+      "sha256": "e20fbdef9f595929fdcf481fea44904009355f564218a3afc8bc3b04db9c2dab",
+      "bytes": 97
+    },
+    {
+      "path": "packets/source_relational_atlas_144b.bin",
+      "sha256": "e9dc78b20ac3eba791c384ee42e023a6de4f9f277d240453b45e372cebcd5a57",
+      "bytes": 144
+    },
+    {
+      "path": "packets/transformer_culture_capsule_241b.iapx",
+      "sha256": "4e5d4bfdf7103faad91bc373a562328bffee35302a1ec4bad74a137da2a11623",
+      "bytes": 241
+    },
+    {
+      "path": "packets/transformer_teacher_97b.iap",
+      "sha256": "f062bc44b0a5ba7613f32f8b969dc32ce2af459817b7680407c4641a87d6ed1e",
+      "bytes": 97
+    },
+    {
+      "path": "teachers/fly_teacher_state.pt",
+      "sha256": "55cc72669db10b86b182e6bc18cb82453aa22380a5b33ef4b040668b01e25f92",
+      "bytes": 140295
+    },
+    {
+      "path": "teachers/mlp_teacher_state.pt",
+      "sha256": "3b0ca260a55f6b42588c75748456046e8e1f647644a54fa7ead0bff43ae40d2b",
+      "bytes": 8589
+    },
+    {
+      "path": "teachers/transformer_teacher_state.pt",
+      "sha256": "e941dc12513384141aa6c1ba5af3e082145ada76e93431f824d763c6b5de6e01",
+      "bytes": 27086
+    }
+  ]
+}

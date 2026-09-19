@@ -1,0 +1,27 @@
+{
+  "name": "gate2d_permutation",
+  "purpose": "v1 signed-permutation replication; see original archive for original seed schedule",
+  "family": "permutation",
+  "directions": [
+    "f2t",
+    "t2f"
+  ],
+  "replicates": 12,
+  "start_rep": 0,
+  "seed_base": 220000,
+  "direction_stride": 100000,
+  "queries": 16,
+  "outdim": 8,
+  "updates": {
+    "f2t": 512,
+    "t2f": 512
+  },
+  "conditions": [
+    "grounded_culture",
+    "query_only_no_packet",
+    "ungrounded_identity"
+  ],
+  "pairing": "matched_initialization",
+  "active_grounding": true,
+  "threads": 1
+}

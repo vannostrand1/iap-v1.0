@@ -1,0 +1,95 @@
+{
+  "sources": [
+    {
+      "gate": "2b",
+      "file": "archive/IAP_Gate2B_Convention_Relay.zip",
+      "sha256": "1be6ece960cc4bf87e8185fcf8d7fb7f676175aa5be6bdd0eb357fc2f7863d2e",
+      "bytes": 73904,
+      "status": "supplied historical archive; not a fresh rerun"
+    },
+    {
+      "gate": "2c",
+      "file": "archive/IAP_Gate2C_Cross_Architecture.zip",
+      "sha256": "3726b8e1b4d1bf47b380d62b23d36225b91642d6287bff54d284e7437f675186",
+      "bytes": 103062,
+      "status": "supplied historical archive; not a fresh rerun"
+    },
+    {
+      "gate": "2d",
+      "file": "archive/IAP_Gate2D_Alien_Cross_Architecture.zip",
+      "sha256": "6e6729d204bfe3091a6cac2dbe6ec4d61b1f3b8d63da2f4044987bbf280ae12c",
+      "bytes": 666709,
+      "status": "supplied historical archive; not a fresh rerun"
+    },
+    {
+      "gate": "2e",
+      "file": "archive/IAP_Gate2E_Unknown_Semantic_Physics.zip",
+      "sha256": "e6b42d94207ea7f9bebede4ab7f492e6c766fb4af8be4ca40a7803a095956b75",
+      "bytes": 684293,
+      "status": "supplied historical archive; not a fresh rerun"
+    },
+    {
+      "gate": "2f",
+      "file": "archive/IAP_Gate2F_Ontology_Translation.zip",
+      "sha256": "c33ea3c7df40bd181d7497b2e170c7243c48f5033030ad1670e8826f48a33636",
+      "bytes": 747320,
+      "status": "supplied historical archive; not a fresh rerun"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_alien_brain_transplant_v0.zip",
+      "sha256": "81398d88bd9e19d19aa8450a9e33d681fb6b619031a8fa27b0462fd993ca01fd",
+      "bytes": 22421,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_alien_brain_transplant_gate1.zip",
+      "sha256": "7e32c4fd91a13efff485a572027aa17bb0114203d8d7e9282d0b5db6ae3cb614",
+      "bytes": 3946982,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_autonomous_grounding_gate1c.zip",
+      "sha256": "165c8f9e6c32c9162de3daea59f0032c360eb94214c4db561742a43cad4cc95b",
+      "bytes": 630768,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_gate1d_generative_grounding.zip",
+      "sha256": "8f21cf80e4e0f64101c1561e7aec8a515467c442403888e8bc327aa92b0d3722",
+      "bytes": 648596,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_gate1e_learned_proposals.zip",
+      "sha256": "211a25089fd02eea79675f4418254f162b29b2c30533a7262166bd622c4b0a92",
+      "bytes": 773909,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_gate1f_self_bootstrapping.zip",
+      "sha256": "cd3bf6388c63803417fb4c036cf7ac09c5dc9205a67b7369087b0072d71af027",
+      "bytes": 728357,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_gate1g_grammar_induction.zip",
+      "sha256": "ba75bed8627ca1a31cac461593e22704fa514172436a86663e00faf3b98f4850",
+      "bytes": 574123,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    },
+    {
+      "gate": "early-development",
+      "file": "archive/iap_gate1h_induced_proposals.zip",
+      "sha256": "65029e0248c987aa427cd10894b61e32fbccf7ddce68db2071ba6bb1f6e33458",
+      "bytes": 645755,
+      "status": "byte-preserved historical prototype; not ported or rerun by v1.0"
+    }
+  ]
+}

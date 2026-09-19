@@ -1,0 +1,6 @@
+{
+  "source": "confirmation.zip",
+  "sha256": "7d728d032b1311ba978f1baf8f721bd2f6a198ebf7c093deb342198b6074ea64",
+  "selection": "raw JSON/CSV and report; omitted binary checkpoints and engine assets",
+  "status": "historical supplied live run, not replayed in this release"
+}

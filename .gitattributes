@@ -1,0 +1,20 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.bat -text
+*.npz binary
+*.pt binary
+*.iap binary
+*.iapx binary
+*.iapc binary
+*.bin binary
+*.zip binary
+
+# Preserve imported evidence, binary assets, and validation records byte-for-byte.
+evidence/** -text
+validation/** -text
+upstream/** -text
+src/iap/assets/** -text

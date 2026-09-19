@@ -1,0 +1,350 @@
+[
+  {
+    "teacher": "transformer",
+    "student": "fly",
+    "rep": 6,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 3,
+    "identity_packet_policy_acc": 0.4166666666666667,
+    "identity_packet_sequence_acc": 0.0,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.375,
+        0.0
+      ],
+      "32": [
+        0.5416666666666666,
+        0.125
+      ],
+      "64": [
+        0.6666666666666666,
+        0.25
+      ],
+      "128": [
+        0.5416666666666666,
+        0.125
+      ],
+      "256": [
+        0.875,
+        0.625
+      ],
+      "512": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      3,
+      1,
+      5,
+      4,
+      2,
+      0
+    ],
+    "alien_sign": [
+      -1.0,
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0,
+      1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": 7102,
+    "absorb_seconds": 1.6963961124420166
+  },
+  {
+    "teacher": "transformer",
+    "student": "fly",
+    "rep": 7,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 2,
+    "identity_packet_policy_acc": 0.4583333333333333,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.5833333333333334,
+        0.125
+      ],
+      "32": [
+        0.625,
+        0.125
+      ],
+      "64": [
+        0.5416666666666666,
+        0.125
+      ],
+      "128": [
+        0.5,
+        0.125
+      ],
+      "256": [
+        0.7916666666666666,
+        0.625
+      ],
+      "512": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      0,
+      5,
+      3,
+      4,
+      1,
+      2
+    ],
+    "alien_sign": [
+      1.0,
+      1.0,
+      1.0,
+      -1.0,
+      1.0,
+      -1.0
+    ],
+    "alien_action_swap": 1,
+    "flyseed": 7103,
+    "absorb_seconds": 1.0768747329711914
+  },
+  {
+    "teacher": "transformer",
+    "student": "fly",
+    "rep": 8,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 3,
+    "identity_packet_policy_acc": 0.4583333333333333,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.4166666666666667,
+        0.125
+      ],
+      "32": [
+        0.4166666666666667,
+        0.0
+      ],
+      "64": [
+        0.5833333333333334,
+        0.375
+      ],
+      "128": [
+        0.5833333333333334,
+        0.125
+      ],
+      "256": [
+        0.875,
+        0.625
+      ],
+      "512": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      1,
+      2,
+      0,
+      4,
+      3,
+      5
+    ],
+    "alien_sign": [
+      -1.0,
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0,
+      -1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": 7102,
+    "absorb_seconds": 1.0742051601409912
+  },
+  {
+    "teacher": "transformer",
+    "student": "fly",
+    "rep": 9,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 2,
+    "identity_packet_policy_acc": 0.4583333333333333,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.5416666666666666,
+        0.0
+      ],
+      "32": [
+        0.2916666666666667,
+        0.0
+      ],
+      "64": [
+        0.625,
+        0.125
+      ],
+      "128": [
+        0.625,
+        0.125
+      ],
+      "256": [
+        0.7083333333333334,
+        0.125
+      ],
+      "512": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      2,
+      5,
+      0,
+      4,
+      1,
+      3
+    ],
+    "alien_sign": [
+      -1.0,
+      1.0,
+      1.0,
+      1.0,
+      -1.0,
+      -1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": 7103,
+    "absorb_seconds": 1.082157850265503
+  },
+  {
+    "teacher": "transformer",
+    "student": "fly",
+    "rep": 10,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 2,
+    "identity_packet_policy_acc": 0.5416666666666666,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.5416666666666666,
+        0.125
+      ],
+      "32": [
+        0.5833333333333334,
+        0.125
+      ],
+      "64": [
+        0.625,
+        0.125
+      ],
+      "128": [
+        0.5833333333333334,
+        0.125
+      ],
+      "256": [
+        0.75,
+        0.375
+      ],
+      "512": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      1,
+      0,
+      5,
+      3,
+      4,
+      2
+    ],
+    "alien_sign": [
+      1.0,
+      1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": 7102,
+    "absorb_seconds": 1.0637459754943848
+  },
+  {
+    "teacher": "transformer",
+    "student": "fly",
+    "rep": 11,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 2,
+    "identity_packet_policy_acc": 0.5,
+    "identity_packet_sequence_acc": 0.125,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.4583333333333333,
+        0.0
+      ],
+      "32": [
+        0.4583333333333333,
+        0.0
+      ],
+      "64": [
+        0.5833333333333334,
+        0.25
+      ],
+      "128": [
+        0.625,
+        0.375
+      ],
+      "256": [
+        0.6666666666666666,
+        0.25
+      ],
+      "512": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      4,
+      0,
+      1,
+      3,
+      2,
+      5
+    ],
+    "alien_sign": [
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": 7103,
+    "absorb_seconds": 1.0696756839752197
+  }
+]

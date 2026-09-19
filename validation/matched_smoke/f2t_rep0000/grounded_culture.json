@@ -1,0 +1,59 @@
+{
+  "batch_examples": 1552,
+  "batch_size_max": 32,
+  "changed_state_keys": [
+    "feature",
+    "cls",
+    "val.weight",
+    "enc.layers.0.self_attn.in_proj_weight",
+    "enc.layers.0.self_attn.in_proj_bias",
+    "enc.layers.0.self_attn.out_proj.weight",
+    "enc.layers.0.self_attn.out_proj.bias",
+    "enc.layers.0.linear1.weight",
+    "enc.layers.0.linear1.bias",
+    "enc.layers.0.linear2.weight",
+    "enc.layers.0.linear2.bias",
+    "enc.layers.0.norm1.weight",
+    "enc.layers.0.norm1.bias",
+    "enc.layers.0.norm2.weight",
+    "enc.layers.0.norm2.bias",
+    "out.weight",
+    "out.bias"
+  ],
+  "checkpoint_sha256": "0141d988f697b357912966e101fd7cfdf58ad98b0f313078a104db6940a1f496",
+  "checkpoints": {
+    "0": {
+      "action_accuracy": 0.22916666666666666,
+      "sequence_accuracy": 0.0
+    },
+    "64": {
+      "action_accuracy": 0.5,
+      "sequence_accuracy": 0.0
+    }
+  },
+  "environmental_rewards": 0,
+  "exposure_draws": 64,
+  "final_state_sha256": "684c65ead58c47935294e986dd94808b0e7f94f42492b226bb4acaec5c3f0729",
+  "fixed_buffers_unchanged": true,
+  "initial_state_sha256": "95f810acf249e21a9093e156ea3c262fa9889b4f7598d09092d560f79e87d764",
+  "learning_rate": 0.01,
+  "losses": [
+    {
+      "mse": 0.4727640450000763,
+      "update": 64
+    }
+  ],
+  "model_spec": {
+    "actions": 4,
+    "fly_seed": 7102,
+    "inputs": 8,
+    "kind": "transformer",
+    "seed": 1300010
+  },
+  "optimizer": "Adam",
+  "packet_access_during_evaluation": false,
+  "pairing": "matched_initialization",
+  "reload_logits_equal": true,
+  "unique_states_exposed": 34,
+  "updates": 64
+}

@@ -1,0 +1,50 @@
+{
+  "scope": "Numerical regression on the same archived teacher packets and world seeds; not fresh confirmation.",
+  "conditions": 36,
+  "action_scores_matching": 33,
+  "sequence_scores_matching": 36,
+  "cultured_conditions": 12,
+  "cultured_conditions_matching": 12,
+  "nonmatching_rows": [
+    {
+      "direction": "f2t",
+      "rep": 2,
+      "condition": "ungrounded_identity",
+      "archived_action": 0.1875,
+      "replayed_action": 0.16666666666666666,
+      "action_delta_pp": -2.0833333333333344,
+      "archived_sequence": 0.0,
+      "replayed_sequence": 0.0,
+      "sequence_delta_pp": 0.0
+    },
+    {
+      "direction": "f2t",
+      "rep": 3,
+      "condition": "query_only_no_packet",
+      "archived_action": 0.625,
+      "replayed_action": 0.6041666666666666,
+      "action_delta_pp": -2.083333333333337,
+      "archived_sequence": 0.0,
+      "replayed_sequence": 0.0,
+      "sequence_delta_pp": 0.0
+    },
+    {
+      "direction": "f2t",
+      "rep": 3,
+      "condition": "ungrounded_identity",
+      "archived_action": 0.25,
+      "replayed_action": 0.22916666666666666,
+      "action_delta_pp": -2.0833333333333344,
+      "archived_sequence": 0.0,
+      "replayed_sequence": 0.0,
+      "sequence_delta_pp": 0.0
+    }
+  ],
+  "original_source_check": {
+    "rep": 3,
+    "direction": "f2t",
+    "conditions": 3,
+    "original_source_agrees_with_v1_port": true,
+    "interpretation": "The unchanged archived script reproduces the new scores for this discrepant world under the current runtime. This supports runtime numerical variation rather than a port-only effect for that checked world; the other discrepant world was not checked with the original script."
+  }
+}

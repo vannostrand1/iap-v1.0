@@ -1,0 +1,9 @@
+direction,comparison,metric,n_pairs,mean_delta,ci95_low,ci95_high,status
+f2t,grounded_culture-minus-query_only_no_packet,action_accuracy,1,0.0625,,,insufficient replication for interval
+f2t,grounded_culture-minus-query_only_no_packet,sequence_accuracy,1,0.0,,,insufficient replication for interval
+f2t,grounded_culture-minus-ungrounded_identity,action_accuracy,1,0.20833333333333331,,,insufficient replication for interval
+f2t,grounded_culture-minus-ungrounded_identity,sequence_accuracy,1,0.0,,,insufficient replication for interval
+t2f,grounded_culture-minus-query_only_no_packet,action_accuracy,1,0.125,,,insufficient replication for interval
+t2f,grounded_culture-minus-query_only_no_packet,sequence_accuracy,1,0.0,,,insufficient replication for interval
+t2f,grounded_culture-minus-ungrounded_identity,action_accuracy,1,0.22916666666666669,,,insufficient replication for interval
+t2f,grounded_culture-minus-ungrounded_identity,sequence_accuracy,1,0.0,,,insufficient replication for interval

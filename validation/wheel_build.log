@@ -1,0 +1,10 @@
+WARNING: The directory '/home/oai/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Processing /mnt/data/iap-v1.0
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: inter-agent-protocol
+  Building wheel for inter-agent-protocol (pyproject.toml): started
+  Building wheel for inter-agent-protocol (pyproject.toml): finished with status 'done'
+  Created wheel for inter-agent-protocol: filename=inter_agent_protocol-1.0.0-py3-none-any.whl size=1085446 sha256=793b51da6006827a1fbdac43a4387e07d5b923372d54189b91f5932b28390f9b
+  Stored in directory: /tmp/pip-ephem-wheel-cache-hywe1zp5/wheels/f6/4a/e5/756d619ef270296633cfdbaab1f6554d76e3812dd1dac0f4cb
+Successfully built inter-agent-protocol

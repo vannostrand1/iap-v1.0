@@ -1,0 +1,60 @@
+[
+  {
+    "teacher": "transformer",
+    "student": "fly",
+    "rep": 0,
+    "calibration_queries": 16,
+    "ground_policy_acc": 1.0,
+    "ground_sequence_acc": 1.0,
+    "survivors": 2,
+    "identity_packet_policy_acc": 0.4166666666666667,
+    "identity_packet_sequence_acc": 0.0,
+    "final_action_acc": 1.0,
+    "final_sequence_acc": 1.0,
+    "checkpoints": {
+      "0": [
+        0.375,
+        0.0
+      ],
+      "32": [
+        0.5416666666666666,
+        0.125
+      ],
+      "64": [
+        0.5,
+        0.125
+      ],
+      "128": [
+        0.4583333333333333,
+        0.125
+      ],
+      "256": [
+        0.7916666666666666,
+        0.5
+      ],
+      "512": [
+        1.0,
+        1.0
+      ]
+    },
+    "alien_perm": [
+      3,
+      4,
+      0,
+      5,
+      1,
+      2
+    ],
+    "alien_sign": [
+      -1.0,
+      1.0,
+      -1.0,
+      -1.0,
+      1.0,
+      -1.0
+    ],
+    "alien_action_swap": 0,
+    "flyseed": 7102,
+    "absorb_seconds": 1.8706998825073242
+  }
+]
