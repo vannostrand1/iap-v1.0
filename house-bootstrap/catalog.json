@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "host": "Jamess-Mac-Studio.local",
+  "user": "aiadmin",
+  "notes": "Named fetch only. HF rows default disabled.",
+  "packages": [
+    {"id": "homebrew", "kind": "script", "spec": "https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh", "check": "command -v brew", "enabled": true, "group": "now", "reason": "package manager for macOS tools"},
+    {"id": "git", "kind": "brew", "spec": "git", "check": "command -v git", "enabled": true, "group": "now", "reason": "house repos"},
+    {"id": "python3", "kind": "brew", "spec": "python@3.12", "check": "command -v python3", "enabled": true, "group": "now", "reason": "house scripts and mlx later"},
+    {"id": "ollama", "kind": "script", "spec": "https://ollama.com/install.sh", "check": "command -v ollama", "enabled": true, "group": "now", "reason": "local runtime for the vessel"},
+    {"id": "vessel-qwen38-27b-mlx", "kind": "ollama", "spec": "qwen3.8:27b-mlx", "check": "ollama list | grep -q 'qwen3.8:27b-mlx'", "enabled": true, "group": "now", "reason": "current Adam vessel on Apple Silicon. Geometry on disk. Not identity."},
+    {"id": "vessel-qwen38-27b", "kind": "ollama", "spec": "qwen3.8:27b", "check": "ollama list | grep -q 'qwen3.8:27b '", "enabled": false, "group": "optional", "reason": "non-MLX twin if a tool stack refuses the mlx tag"},
+    {"id": "repo-iap-house", "kind": "git", "spec": "https://github.com/vannostrand1/iap-v1.0.git", "branch": "house-iap-v0", "dest": "$HOUSE_ROOT/src/iap-v1.0", "check": "test -d $HOUSE_ROOT/src/iap-v1.0/.git", "enabled": true, "group": "now", "reason": "house IAP + lineage archive"},
+    {"id": "repo-grok-recovery", "kind": "git", "spec": "https://github.com/vannostrand1/grok-recovery.git", "branch": "main", "dest": "$HOUSE_ROOT/src/grok-recovery", "check": "test -d $HOUSE_ROOT/src/grok-recovery/.git", "enabled": true, "group": "now", "reason": "Grok desk pointer repo"},
+    {"id": "mlx-lm", "kind": "pip", "spec": "mlx-lm", "check": "python3 -c 'import mlx_lm'", "enabled": false, "group": "future", "reason": "only when LoRA absorb leaves Ollama. Enable then install --only mlx-lm."},
+    {"id": "huggingface-hub", "kind": "pip", "spec": "huggingface_hub", "check": "python3 -c 'import huggingface_hub'", "enabled": false, "group": "future", "reason": "CLI for a named HF job. Do not leave logged in. Enable per job."},
+    {"id": "official-qwen38-bf16", "kind": "hf", "spec": "Qwen/Qwen3.8-27B", "dest": "$HOUSE_ROOT/vessels/Qwen3.8-27B-bf16", "enabled": false, "group": "future", "reason": "official weights only if converting outside Ollama. Named job. Close after copy."}
+  ]
+}
